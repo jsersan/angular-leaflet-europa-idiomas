@@ -1,33 +1,69 @@
 .app-header {
-    position: fixed; top: 0; left: 0; right: 0;
-    height: 48px;
-    background: #1e9bd7;
-    display: flex; align-items: center;
-    padding: 0 16px; gap: 18px;
-    z-index: 1100;
-    box-shadow: 0 2px 8px rgba(0,0,0,.20);
-  
-    .logo {
-      font-size: 1.05rem; font-weight: 700;
-      color: #fff; text-decoration: none;
-      white-space: nowrap;
+  position: fixed; top: 0; left: 0; right: 0;
+  height: 48px;
+  background: #1e9bd7;
+  display: flex; align-items: center;
+  padding: 0 16px; gap: 18px;
+  z-index: 1100;
+  box-shadow: 0 2px 8px rgba(0,0,0,.20);
+
+  .logo {
+    font-size: 1.05rem; font-weight: 700;
+    color: #fff; text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .nav-link {
+    font-size: .9rem; color: rgba(255,255,255,.88);
+    text-decoration: none; cursor: pointer;
+    padding: 4px 10px; border-radius: 4px;
+    transition: background .18s;
+    white-space: nowrap;
+    &:hover { background: rgba(255,255,255,.18); }
+  }
+
+  .spacer { flex: 1; }
+
+  // ── Language selector ──────────────────────────────
+  .lang-selector {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    background: rgba(0,0,0,.15);
+    border-radius: 6px;
+    padding: 3px;
+  }
+
+  .lang-btn {
+    padding: 3px 9px;
+    font-size: .72rem;
+    font-weight: 700;
+    letter-spacing: .06em;
+    color: rgba(255,255,255,.75);
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background .16s, color .16s;
+
+    &:hover {
+      background: rgba(255,255,255,.18);
+      color: #fff;
     }
-  
-    .nav-link {
-      font-size: .9rem; color: rgba(255,255,255,.88);
-      text-decoration: none; cursor: pointer;
-      padding: 4px 10px; border-radius: 4px;
-      transition: background .18s;
-      &:hover { background: rgba(255,255,255,.18); }
-    }
-  
-    .spacer { flex: 1; }
-  
-    .pin-badge {
-      background: rgba(255,255,255,.22);
-      border: 1px solid rgba(255,255,255,.35);
-      color: #fff; font-size: .78rem; font-weight: 600;
-      padding: 3px 10px; border-radius: 20px;
-      white-space: nowrap;
+
+    &.active {
+      background: rgba(255,255,255,.28);
+      color: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,.2);
     }
   }
+
+  // ── Pin badge ──────────────────────────────────────
+  .pin-badge {
+    background: rgba(255,255,255,.22);
+    border: 1px solid rgba(255,255,255,.35);
+    color: #fff; font-size: .78rem; font-weight: 600;
+    padding: 3px 10px; border-radius: 20px;
+    white-space: nowrap;
+  }
+}

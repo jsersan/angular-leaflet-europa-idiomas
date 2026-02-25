@@ -15,6 +15,7 @@ html, body {
   padding: 0 !important;
   overflow: hidden;
 }
+
 .leaflet-popup-content { margin: 0 !important; }
 
 .popup-inner {
@@ -34,9 +35,11 @@ html, body {
   }
 }
 
-.popup-inner .pop-poblacion {
-    font-size: .80rem;
-    color: #2d3748;
-    margin-top: 4px;
-    font-weight: 500;
-  }
+/* ← Selector corregido: coma para que sean reglas independientes */
+.popup-inner .pop-poblacion,
+.popup-inner .pop-moneda {
+  font-size: .80rem;
+  color: #2d3748;
+  margin-top: 4px;
+  font-weight: 500;
+}

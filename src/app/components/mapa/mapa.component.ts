@@ -54,7 +54,7 @@ export class MapaComponent implements AfterViewInit, OnChanges, OnDestroy {
     this.map?.remove();
   }
 
-  // ── Inicialización ──────────────────────────────────────────
+  // ── Inicialización ──────────────────────────────────────────────────────────
   private initMap() {
     this.map = L.map(this.mapEl.nativeElement, {
       center: [50.5, 10.0],
@@ -70,7 +70,7 @@ export class MapaComponent implements AfterViewInit, OnChanges, OnDestroy {
     this.markersLayer.addTo(this.map);
   }
 
-  // ── Helpers ─────────────────────────────────────────────────
+  // ── Helpers ─────────────────────────────────────────────────────────────────
   private makeIcon(color: string, size = 10): L.DivIcon {
     const svg = `<svg xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 32" width="${size * 2.2}" height="${size * 3}">
@@ -105,28 +105,33 @@ export class MapaComponent implements AfterViewInit, OnChanges, OnDestroy {
   }
 
   private addMarkers(cities: Ciudad[], color: string, label: string) {
-    // Filtramos ciudades con coordenadas inválidas
     const valid = cities.filter(c =>
       c.lat != null && c.lng != null &&
       !isNaN(c.lat) && !isNaN(c.lng)
     );
-  
+
     valid.forEach(c => {
       const region = this.regiones.find(r => r.id === c.region);
       const pais   = this.paises.find(p => p.id === region?.pais);
       const popup = `
-            <div class="popup-inner">
-              <h3>${c.nombre}</h3>
-              <p>${region?.nombre ?? ''} · ${pais?.nombre ?? ''}</p>
-              ${c.poblacion ? `<p class="pop-poblacion">👥 ${c.poblacion.toLocaleString('es-ES')} hab.</p>` : ''}
-              <span class="pop-tag" style="background:${color}">${label}</span>
-            </div>`;
+        <div class="popup-inner">
+          <h3>${c.nombre}</h3>
+          <p>${region?.nombre ?? ''} · ${pais?.nombre ?? ''}</p>
+          ${c.poblacion
+            ? `<p class="pop-poblacion">👥 ${c.poblacion.toLocaleString('es-ES')} hab.</p>`
+            : ''}
+          ${pais?.moneda
+            ? `<p class="pop-moneda">Moneda: <strong>${pais.simbolo_moneda}</strong> ${pais.moneda} (${pais.codigo_moneda})</p>`
+            : ''}
+          <span class="pop-tag" style="background:${color}">${label}</span>
+        </div>`;
       L.marker([c.lat, c.lng], { icon: this.makeIcon(color) })
         .addTo(this.markersLayer)
-        .bindPopup(popup, { maxWidth: 280 });
+        .bindPopup(popup, { maxWidth: 300 });
     });
   }
-  // ── Acciones de mapa ────────────────────────────────────────
+
+  // ── Acciones de mapa ────────────────────────────────────────────────────────
   private pintarPais() {
     this.clearMarkers();
     const ciudadesPais = this.ciudades.filter(c => {
@@ -136,7 +141,8 @@ export class MapaComponent implements AfterViewInit, OnChanges, OnDestroy {
     this.addMarkers(ciudadesPais, '#1e9bd7', this.paisActivo!.nombre);
 
     if (this.boundsValidos(this.paisActivo!.bounds)) {
-      this.map.flyToBounds(this.paisActivo!.bounds as L.LatLngBoundsExpression, { duration: 1.2, padding: [30, 30] });
+      this.map.flyToBounds(this.paisActivo!.bounds as L.LatLngBoundsExpression,
+        { duration: 1.2, padding: [30, 30] });
     } else {
       this.map.flyTo([this.paisActivo!.lat, this.paisActivo!.lng],
         this.paisActivo!.zoom, { duration: 1.2 });
@@ -149,7 +155,8 @@ export class MapaComponent implements AfterViewInit, OnChanges, OnDestroy {
     this.addMarkers(ciudadesRegion, '#2ecc71', this.regionActiva!.nombre);
 
     if (this.boundsValidos(this.regionActiva!.bounds)) {
-      this.map.flyToBounds(this.regionActiva!.bounds as L.LatLngBoundsExpression, { duration: 1, padding: [50, 50] });
+      this.map.flyToBounds(this.regionActiva!.bounds as L.LatLngBoundsExpression,
+        { duration: 1, padding: [50, 50] });
     } else if (this.regionActiva!.lat && this.regionActiva!.lng) {
       this.map.flyTo([this.regionActiva!.lat, this.regionActiva!.lng], 9, { duration: 1 });
     }

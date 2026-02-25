@@ -5,6 +5,9 @@ export interface Pais {
   lng: number;
   zoom: number;
   bounds: [[number, number], [number, number]];
+  moneda: string;
+  simbolo_moneda: string;
+  codigo_moneda: string;
 }
 
 export interface Region {
@@ -22,7 +25,7 @@ export interface Ciudad {
   nombre: string;
   lat: number;
   lng: number;
-  poblacion?: number;  // ← añade esta línea
+  poblacion?: number | null;
 }
 
 export interface GeoData {

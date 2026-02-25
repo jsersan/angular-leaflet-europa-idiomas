@@ -1,12 +1,16 @@
-import { Component, Input, Output, EventEmitter, OnChanges, SimpleChanges } from '@angular/core';
-
+import {
+  Component, Input, Output, EventEmitter,
+  OnChanges, OnInit, OnDestroy, SimpleChanges, ChangeDetectorRef
+} from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { Pais, Region, Ciudad } from '../../models/geodata.model';
 
+import { Pais, Region, Ciudad } from '../../models/geodata.model';
 import { GetPaisNombrePipe }   from '../../pipes/get-pais-nombre.pipe';
 import { GetRegionNombrePipe } from '../../pipes/get-region-nombre.pipe';
 import { GetCiudadNombrePipe } from '../../pipes/get-ciudad-nombre.pipe';
+import { TranslationService } from '../../services/translation.service';
+import { Subscription } from 'rxjs';
 
 @Component({
   selector: 'app-sidebar',
@@ -15,7 +19,7 @@ import { GetCiudadNombrePipe } from '../../pipes/get-ciudad-nombre.pipe';
   templateUrl: './sidebar.component.html',
   styleUrls: ['./sidebar.component.scss']
 })
-export class SidebarComponent implements OnChanges {
+export class SidebarComponent implements OnChanges, OnInit, OnDestroy {
 
   @Input() paises:   Pais[]   = [];
   @Input() regiones: Region[] = [];
@@ -33,6 +37,19 @@ export class SidebarComponent implements OnChanges {
   paisesOrdenados:   Pais[]   = [];
   regionesFiltradas: Region[] = [];
   ciudadesFiltradas: Ciudad[] = [];
+
+  private sub!: Subscription;
+
+  constructor(public i18n: TranslationService, private cdr: ChangeDetectorRef) {}
+
+  ngOnInit(): void {
+    // Re-render when language changes
+    this.sub = this.i18n.lang$.subscribe(() => this.cdr.markForCheck());
+  }
+
+  ngOnDestroy(): void {
+    this.sub.unsubscribe();
+  }
 
   ngOnChanges(changes: SimpleChanges) {
     if (changes['paises']) {

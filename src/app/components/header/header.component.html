@@ -1,6 +1,21 @@
 <header class="app-header">
-    <a class="logo" href="#">🌍 GeoSelector Europa</a>
-    <a class="nav-link" (click)="inicio.emit()">Inicio</a>
-    <div class="spacer"></div>
-    <div class="pin-badge">{{ pinCount }} {{ pinCount === 1 ? 'pin' : 'pines' }}</div>
-  </header>
+  <a class="logo" href="#">🌍 GeoSelector Europa</a>
+  <a class="nav-link" (click)="inicio.emit()">{{ i18n.t('start') }}</a>
+  <div class="spacer"></div>
+
+  <!-- Language selector -->
+  <div class="lang-selector" role="group" aria-label="Language / Idioma / Hizkuntza">
+    <button
+      *ngFor="let lang of langs"
+      class="lang-btn"
+      [class.active]="currentLang === lang"
+      (click)="setLang(lang)"
+      [title]="lang === 'es' ? 'Español' : lang === 'en' ? 'English' : 'Euskera'">
+      {{ lang.toUpperCase() }}
+    </button>
+  </div>
+
+  <div class="pin-badge">
+    {{ pinCount }} {{ pinCount === 1 ? i18n.t('pin') : i18n.t('pins') }}
+  </div>
+</header>

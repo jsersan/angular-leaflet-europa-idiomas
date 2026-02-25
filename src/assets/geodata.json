@@ -15,7 +15,10 @@
           43.9,
           4.5
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "fr",
@@ -32,7 +35,10 @@
           51.1,
           9.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "de",
@@ -49,7 +55,10 @@
           55.1,
           15
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "it",
@@ -66,7 +75,10 @@
           47.1,
           18.5
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "pt",
@@ -83,7 +95,10 @@
           42.2,
           -6.2
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "nl",
@@ -100,7 +115,10 @@
           53.6,
           7.2
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "be",
@@ -117,7 +135,10 @@
           51.5,
           6.4
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "pl",
@@ -134,7 +155,10 @@
           54.8,
           24.1
         ]
-      ]
+      ],
+      "moneda": "Esloti polaco",
+      "simbolo_moneda": "zł",
+      "codigo_moneda": "PLN"
     },
     {
       "id": "se",
@@ -151,7 +175,10 @@
           69.1,
           24.2
         ]
-      ]
+      ],
+      "moneda": "Corona sueca",
+      "simbolo_moneda": "kr",
+      "codigo_moneda": "SEK"
     },
     {
       "id": "ch",
@@ -168,7 +195,10 @@
           47.8,
           10.5
         ]
-      ]
+      ],
+      "moneda": "Franco suizo",
+      "simbolo_moneda": "CHF",
+      "codigo_moneda": "CHF"
     },
     {
       "id": "gb",
@@ -185,7 +215,10 @@
           60.9,
           1.8
         ]
-      ]
+      ],
+      "moneda": "Libra esterlina",
+      "simbolo_moneda": "£",
+      "codigo_moneda": "GBP"
     },
     {
       "id": "ie",
@@ -202,7 +235,10 @@
           55.4,
           -5.9
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "at",
@@ -219,7 +255,10 @@
           49,
           17.2
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "dk",
@@ -236,7 +275,10 @@
           57.8,
           15.2
         ]
-      ]
+      ],
+      "moneda": "Corona danesa",
+      "simbolo_moneda": "kr",
+      "codigo_moneda": "DKK"
     },
     {
       "id": "no",
@@ -253,7 +295,10 @@
           71.2,
           31.1
         ]
-      ]
+      ],
+      "moneda": "Corona noruega",
+      "simbolo_moneda": "kr",
+      "codigo_moneda": "NOK"
     },
     {
       "id": "fi",
@@ -270,7 +315,10 @@
           70.1,
           31.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "lu",
@@ -287,7 +335,10 @@
           50.2,
           6.5
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "li",
@@ -304,7 +355,10 @@
           47.3,
           9.6
         ]
-      ]
+      ],
+      "moneda": "Franco suizo",
+      "simbolo_moneda": "CHF",
+      "codigo_moneda": "CHF"
     },
     {
       "id": "mc",
@@ -321,7 +375,10 @@
           43.75,
           7.44
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "ad",
@@ -338,7 +395,10 @@
           42.7,
           1.8
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "sm",
@@ -355,7 +415,10 @@
           43.99,
           12.52
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "va",
@@ -372,7 +435,10 @@
           41.91,
           12.46
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "mt",
@@ -389,7 +455,10 @@
           36.08,
           14.58
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "is",
@@ -406,7 +475,10 @@
           66.6,
           -13.5
         ]
-      ]
+      ],
+      "moneda": "Corona islandesa",
+      "simbolo_moneda": "kr",
+      "codigo_moneda": "ISK"
     },
     {
       "id": "cz",
@@ -423,7 +495,10 @@
           51.1,
           18.9
         ]
-      ]
+      ],
+      "moneda": "Corona checa",
+      "simbolo_moneda": "Kč",
+      "codigo_moneda": "CZK"
     },
     {
       "id": "sk",
@@ -440,7 +515,10 @@
           49.6,
           22.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "hu",
@@ -457,7 +535,10 @@
           48.6,
           22.9
         ]
-      ]
+      ],
+      "moneda": "Forinto húngaro",
+      "simbolo_moneda": "Ft",
+      "codigo_moneda": "HUF"
     },
     {
       "id": "ro",
@@ -474,7 +555,10 @@
           48.3,
           30
         ]
-      ]
+      ],
+      "moneda": "Leu rumano",
+      "simbolo_moneda": "lei",
+      "codigo_moneda": "RON"
     },
     {
       "id": "bg",
@@ -491,7 +575,10 @@
           44.2,
           28.6
         ]
-      ]
+      ],
+      "moneda": "Lev búlgaro",
+      "simbolo_moneda": "лв",
+      "codigo_moneda": "BGN"
     },
     {
       "id": "hr",
@@ -508,7 +595,10 @@
           46.6,
           19.4
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "si",
@@ -525,7 +615,10 @@
           46.9,
           16.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "rs",
@@ -542,7 +635,10 @@
           46.2,
           23
         ]
-      ]
+      ],
+      "moneda": "Dinar serbio",
+      "simbolo_moneda": "din",
+      "codigo_moneda": "RSD"
     },
     {
       "id": "ba",
@@ -559,7 +655,10 @@
           45.3,
           19.6
         ]
-      ]
+      ],
+      "moneda": "Marco convertible",
+      "simbolo_moneda": "KM",
+      "codigo_moneda": "BAM"
     },
     {
       "id": "me",
@@ -576,7 +675,10 @@
           43.6,
           20.4
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "mk",
@@ -593,7 +695,10 @@
           42.4,
           23
         ]
-      ]
+      ],
+      "moneda": "Denar macedonio",
+      "simbolo_moneda": "ден",
+      "codigo_moneda": "MKD"
     },
     {
       "id": "al",
@@ -610,7 +715,10 @@
           42.7,
           21.1
         ]
-      ]
+      ],
+      "moneda": "Lek albanés",
+      "simbolo_moneda": "L",
+      "codigo_moneda": "ALL"
     },
     {
       "id": "xk",
@@ -627,7 +735,10 @@
           43.3,
           21.8
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "md",
@@ -644,7 +755,10 @@
           48.5,
           30.2
         ]
-      ]
+      ],
+      "moneda": "Leu moldavo",
+      "simbolo_moneda": "lei",
+      "codigo_moneda": "MDL"
     },
     {
       "id": "ua",
@@ -661,7 +775,10 @@
           52.4,
           40.2
         ]
-      ]
+      ],
+      "moneda": "Grivna ucraniana",
+      "simbolo_moneda": "₴",
+      "codigo_moneda": "UAH"
     },
     {
       "id": "by",
@@ -678,7 +795,10 @@
           56.2,
           32.8
         ]
-      ]
+      ],
+      "moneda": "Rublo bielorruso",
+      "simbolo_moneda": "Br",
+      "codigo_moneda": "BYN"
     },
     {
       "id": "lt",
@@ -695,7 +815,10 @@
           56.5,
           26.8
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "lv",
@@ -712,7 +835,10 @@
           58.1,
           28.2
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "ee",
@@ -729,7 +855,10 @@
           59.7,
           28.2
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "gr",
@@ -746,7 +875,10 @@
           42,
           29.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "cy",
@@ -763,7 +895,10 @@
           35.7,
           34.6
         ]
-      ]
+      ],
+      "moneda": "Euro",
+      "simbolo_moneda": "€",
+      "codigo_moneda": "EUR"
     },
     {
       "id": "ru",
@@ -780,7 +915,10 @@
           69.1,
           66
         ]
-      ]
+      ],
+      "moneda": "Rublo ruso",
+      "simbolo_moneda": "₽",
+      "codigo_moneda": "RUB"
     },
     {
       "id": "tr",
@@ -797,7 +935,10 @@
           42.1,
           30
         ]
-      ]
+      ],
+      "moneda": "Lira turca",
+      "simbolo_moneda": "₺",
+      "codigo_moneda": "TRY"
     },
     {
       "id": "ge",
@@ -814,7 +955,10 @@
           43.6,
           46.7
         ]
-      ]
+      ],
+      "moneda": "Lari georgiano",
+      "simbolo_moneda": "₾",
+      "codigo_moneda": "GEL"
     },
     {
       "id": "am",
@@ -831,7 +975,10 @@
           41.3,
           46.6
         ]
-      ]
+      ],
+      "moneda": "Dram armenio",
+      "simbolo_moneda": "֏",
+      "codigo_moneda": "AMD"
     },
     {
       "id": "az",
@@ -848,7 +995,10 @@
           41.9,
           50.5
         ]
-      ]
+      ],
+      "moneda": "Manat azerbaiyano",
+      "simbolo_moneda": "₼",
+      "codigo_moneda": "AZN"
     }
   ],
   "REGIONES": [
@@ -3304,6 +3454,788 @@
           12.459
         ]
       ]
+    },
+    {
+      "id": "es-ar",
+      "pais": "es",
+      "nombre": "Aragón",
+      "lat": 41.65,
+      "lng": -0.88,
+      "bounds": [
+        [
+          39.9,
+          -1.8
+        ],
+        [
+          42.9,
+          0.8
+        ]
+      ]
+    },
+    {
+      "id": "es-as",
+      "pais": "es",
+      "nombre": "Asturias",
+      "lat": 43.36,
+      "lng": -5.85,
+      "bounds": [
+        [
+          42.9,
+          -7.1
+        ],
+        [
+          43.7,
+          -4.5
+        ]
+      ]
+    },
+    {
+      "id": "es-cb",
+      "pais": "es",
+      "nombre": "Cantabria",
+      "lat": 43.2,
+      "lng": -3.99,
+      "bounds": [
+        [
+          42.8,
+          -4.8
+        ],
+        [
+          43.5,
+          -3.1
+        ]
+      ]
+    },
+    {
+      "id": "es-cl",
+      "pais": "es",
+      "nombre": "Castilla y León",
+      "lat": 41.6,
+      "lng": -4.7,
+      "bounds": [
+        [
+          40.0,
+          -7.0
+        ],
+        [
+          43.1,
+          -1.8
+        ]
+      ]
+    },
+    {
+      "id": "es-cm",
+      "pais": "es",
+      "nombre": "Castilla-La Mancha",
+      "lat": 39.5,
+      "lng": -2.8,
+      "bounds": [
+        [
+          37.9,
+          -5.3
+        ],
+        [
+          41.0,
+          -1.1
+        ]
+      ]
+    },
+    {
+      "id": "es-ex",
+      "pais": "es",
+      "nombre": "Extremadura",
+      "lat": 39.2,
+      "lng": -6.2,
+      "bounds": [
+        [
+          37.8,
+          -7.5
+        ],
+        [
+          40.2,
+          -4.9
+        ]
+      ]
+    },
+    {
+      "id": "es-ri",
+      "pais": "es",
+      "nombre": "La Rioja",
+      "lat": 42.3,
+      "lng": -2.4,
+      "bounds": [
+        [
+          41.9,
+          -3.0
+        ],
+        [
+          42.6,
+          -1.7
+        ]
+      ]
+    },
+    {
+      "id": "es-mu",
+      "pais": "es",
+      "nombre": "Murcia",
+      "lat": 37.9,
+      "lng": -1.5,
+      "bounds": [
+        [
+          37.4,
+          -2.3
+        ],
+        [
+          38.8,
+          -0.6
+        ]
+      ]
+    },
+    {
+      "id": "es-na",
+      "pais": "es",
+      "nombre": "Navarra",
+      "lat": 42.7,
+      "lng": -1.6,
+      "bounds": [
+        [
+          41.9,
+          -2.1
+        ],
+        [
+          43.3,
+          -0.5
+        ]
+      ]
+    },
+    {
+      "id": "es-ib",
+      "pais": "es",
+      "nombre": "Islas Baleares",
+      "lat": 39.5,
+      "lng": 2.9,
+      "bounds": [
+        [
+          38.6,
+          1.1
+        ],
+        [
+          40.1,
+          4.4
+        ]
+      ]
+    },
+    {
+      "id": "es-ic",
+      "pais": "es",
+      "nombre": "Islas Canarias",
+      "lat": 28.3,
+      "lng": -15.5,
+      "bounds": [
+        [
+          27.6,
+          -18.2
+        ],
+        [
+          29.5,
+          -13.4
+        ]
+      ]
+    },
+    {
+      "id": "es-ce",
+      "pais": "es",
+      "nombre": "Ceuta",
+      "lat": 35.89,
+      "lng": -5.32,
+      "bounds": [
+        [
+          35.87,
+          -5.38
+        ],
+        [
+          35.92,
+          -5.28
+        ]
+      ]
+    },
+    {
+      "id": "es-me",
+      "pais": "es",
+      "nombre": "Melilla",
+      "lat": 35.29,
+      "lng": -2.94,
+      "bounds": [
+        [
+          35.27,
+          -2.98
+        ],
+        [
+          35.31,
+          -2.9
+        ]
+      ]
+    },
+    {
+      "id": "fr-occ",
+      "nombre": "Occitania",
+      "pais": "fr",
+      "lat": 43.6,
+      "lng": 2.5,
+      "bounds": [
+        [
+          42.3,
+          0.7
+        ],
+        [
+          44.9,
+          4.8
+        ]
+      ]
+    },
+    {
+      "id": "fr-aqn",
+      "nombre": "Nueva Aquitania",
+      "pais": "fr",
+      "lat": 44.8,
+      "lng": 0.5,
+      "bounds": [
+        [
+          43.0,
+          -1.8
+        ],
+        [
+          47.0,
+          3.3
+        ]
+      ]
+    },
+    {
+      "id": "fr-pll",
+      "nombre": "Países del Loira",
+      "pais": "fr",
+      "lat": 47.5,
+      "lng": -0.5,
+      "bounds": [
+        [
+          46.3,
+          -2.5
+        ],
+        [
+          48.6,
+          1.0
+        ]
+      ]
+    },
+    {
+      "id": "fr-cvl",
+      "nombre": "Centro-Val de Loira",
+      "pais": "fr",
+      "lat": 47.5,
+      "lng": 1.7,
+      "bounds": [
+        [
+          46.3,
+          -0.1
+        ],
+        [
+          48.5,
+          3.2
+        ]
+      ]
+    },
+    {
+      "id": "fr-bou",
+      "nombre": "Borgoña-Franco Condado",
+      "pais": "fr",
+      "lat": 47.0,
+      "lng": 5.0,
+      "bounds": [
+        [
+          46.2,
+          2.8
+        ],
+        [
+          48.5,
+          7.0
+        ]
+      ]
+    },
+    {
+      "id": "fr-hdf",
+      "nombre": "Hauts-de-France",
+      "pais": "fr",
+      "lat": 50.2,
+      "lng": 2.8,
+      "bounds": [
+        [
+          49.4,
+          1.6
+        ],
+        [
+          51.1,
+          4.2
+        ]
+      ]
+    },
+    {
+      "id": "fr-gel",
+      "nombre": "Grand Est",
+      "pais": "fr",
+      "lat": 48.5,
+      "lng": 6.8,
+      "bounds": [
+        [
+          47.4,
+          3.4
+        ],
+        [
+          49.9,
+          8.2
+        ]
+      ]
+    },
+    {
+      "id": "fr-cor",
+      "nombre": "Córcega",
+      "pais": "fr",
+      "lat": 42.0,
+      "lng": 9.0,
+      "bounds": [
+        [
+          41.3,
+          8.5
+        ],
+        [
+          43.1,
+          9.6
+        ]
+      ]
+    },
+    {
+      "id": "de-baw",
+      "nombre": "Baden-Württemberg",
+      "pais": "de",
+      "lat": 48.5,
+      "lng": 9.0,
+      "bounds": [
+        [
+          47.5,
+          7.5
+        ],
+        [
+          49.8,
+          10.5
+        ]
+      ]
+    },
+    {
+      "id": "de-lsa",
+      "nombre": "Baja Sajonia",
+      "pais": "de",
+      "lat": 52.6,
+      "lng": 9.8,
+      "bounds": [
+        [
+          51.3,
+          6.6
+        ],
+        [
+          53.9,
+          11.6
+        ]
+      ]
+    },
+    {
+      "id": "de-hes",
+      "nombre": "Hesse",
+      "pais": "de",
+      "lat": 50.7,
+      "lng": 9.0,
+      "bounds": [
+        [
+          49.4,
+          7.7
+        ],
+        [
+          51.7,
+          10.3
+        ]
+      ]
+    },
+    {
+      "id": "de-rpl",
+      "nombre": "Renania-Palatinado",
+      "pais": "de",
+      "lat": 50.0,
+      "lng": 7.3,
+      "bounds": [
+        [
+          48.9,
+          6.1
+        ],
+        [
+          51.0,
+          8.5
+        ]
+      ]
+    },
+    {
+      "id": "de-bra",
+      "nombre": "Brandeburgo",
+      "pais": "de",
+      "lat": 52.3,
+      "lng": 13.8,
+      "bounds": [
+        [
+          51.4,
+          11.3
+        ],
+        [
+          53.6,
+          14.8
+        ]
+      ]
+    },
+    {
+      "id": "de-mec",
+      "nombre": "Mecklemburgo-Pomerania",
+      "pais": "de",
+      "lat": 53.8,
+      "lng": 12.5,
+      "bounds": [
+        [
+          53.1,
+          10.6
+        ],
+        [
+          54.7,
+          14.4
+        ]
+      ]
+    },
+    {
+      "id": "de-thu",
+      "nombre": "Turingia",
+      "pais": "de",
+      "lat": 50.9,
+      "lng": 11.0,
+      "bounds": [
+        [
+          50.2,
+          9.9
+        ],
+        [
+          51.6,
+          12.7
+        ]
+      ]
+    },
+    {
+      "id": "de-sar",
+      "nombre": "Sarre",
+      "pais": "de",
+      "lat": 49.3,
+      "lng": 6.9,
+      "bounds": [
+        [
+          49.1,
+          6.4
+        ],
+        [
+          49.7,
+          7.4
+        ]
+      ]
+    },
+    {
+      "id": "de-sha",
+      "nombre": "Sajonia-Anhalt",
+      "pais": "de",
+      "lat": 51.8,
+      "lng": 11.7,
+      "bounds": [
+        [
+          50.9,
+          10.6
+        ],
+        [
+          53.1,
+          13.2
+        ]
+      ]
+    },
+    {
+      "id": "de-shl",
+      "nombre": "Schleswig-Holstein",
+      "pais": "de",
+      "lat": 54.2,
+      "lng": 9.6,
+      "bounds": [
+        [
+          53.4,
+          8.3
+        ],
+        [
+          55.1,
+          11.0
+        ]
+      ]
+    },
+    {
+      "id": "de-bre",
+      "nombre": "Bremen",
+      "pais": "de",
+      "lat": 53.1,
+      "lng": 8.8,
+      "bounds": [
+        [
+          53.0,
+          8.5
+        ],
+        [
+          53.6,
+          9.2
+        ]
+      ]
+    },
+    {
+      "id": "it-cam",
+      "nombre": "Campania",
+      "pais": "it",
+      "lat": 40.8,
+      "lng": 14.8,
+      "bounds": [
+        [
+          39.9,
+          14.0
+        ],
+        [
+          41.8,
+          16.0
+        ]
+      ]
+    },
+    {
+      "id": "it-apu",
+      "nombre": "Apulia",
+      "pais": "it",
+      "lat": 40.9,
+      "lng": 16.5,
+      "bounds": [
+        [
+          39.8,
+          15.0
+        ],
+        [
+          42.1,
+          18.5
+        ]
+      ]
+    },
+    {
+      "id": "it-sar",
+      "nombre": "Cerdeña",
+      "pais": "it",
+      "lat": 40.1,
+      "lng": 9.0,
+      "bounds": [
+        [
+          38.8,
+          8.1
+        ],
+        [
+          41.3,
+          9.8
+        ]
+      ]
+    },
+    {
+      "id": "it-ero",
+      "nombre": "Emilia-Romaña",
+      "pais": "it",
+      "lat": 44.5,
+      "lng": 11.0,
+      "bounds": [
+        [
+          43.7,
+          9.2
+        ],
+        [
+          45.1,
+          12.8
+        ]
+      ]
+    },
+    {
+      "id": "it-pie",
+      "nombre": "Piamonte",
+      "pais": "it",
+      "lat": 44.8,
+      "lng": 7.8,
+      "bounds": [
+        [
+          44.1,
+          6.6
+        ],
+        [
+          46.5,
+          9.2
+        ]
+      ]
+    },
+    {
+      "id": "it-lig",
+      "nombre": "Liguria",
+      "pais": "it",
+      "lat": 44.3,
+      "lng": 8.5,
+      "bounds": [
+        [
+          43.8,
+          7.5
+        ],
+        [
+          44.6,
+          10.0
+        ]
+      ]
+    },
+    {
+      "id": "it-umb",
+      "nombre": "Umbría",
+      "pais": "it",
+      "lat": 42.9,
+      "lng": 12.5,
+      "bounds": [
+        [
+          42.4,
+          11.9
+        ],
+        [
+          43.6,
+          13.3
+        ]
+      ]
+    },
+    {
+      "id": "it-mar",
+      "nombre": "Marcas",
+      "pais": "it",
+      "lat": 43.5,
+      "lng": 13.3,
+      "bounds": [
+        [
+          42.7,
+          12.4
+        ],
+        [
+          44.0,
+          13.9
+        ]
+      ]
+    },
+    {
+      "id": "it-abr",
+      "nombre": "Abruzos",
+      "pais": "it",
+      "lat": 42.2,
+      "lng": 13.8,
+      "bounds": [
+        [
+          41.7,
+          13.0
+        ],
+        [
+          42.9,
+          14.8
+        ]
+      ]
+    },
+    {
+      "id": "it-cal",
+      "nombre": "Calabria",
+      "pais": "it",
+      "lat": 38.9,
+      "lng": 16.4,
+      "bounds": [
+        [
+          37.9,
+          15.6
+        ],
+        [
+          40.1,
+          17.2
+        ]
+      ]
+    },
+    {
+      "id": "it-bas",
+      "nombre": "Basilicata",
+      "pais": "it",
+      "lat": 40.5,
+      "lng": 16.0,
+      "bounds": [
+        [
+          39.9,
+          15.5
+        ],
+        [
+          41.1,
+          16.9
+        ]
+      ]
+    },
+    {
+      "id": "pt-ale",
+      "nombre": "Alentejo",
+      "pais": "pt",
+      "lat": 38.2,
+      "lng": -7.9,
+      "bounds": [
+        [
+          37.3,
+          -8.8
+        ],
+        [
+          39.5,
+          -6.9
+        ]
+      ]
+    },
+    {
+      "id": "pt-mad",
+      "nombre": "Madeira",
+      "pais": "pt",
+      "lat": 32.7,
+      "lng": -17.0,
+      "bounds": [
+        [
+          32.6,
+          -17.3
+        ],
+        [
+          32.9,
+          -16.3
+        ]
+      ]
+    },
+    {
+      "id": "pt-azo",
+      "nombre": "Azores",
+      "pais": "pt",
+      "lat": 37.7,
+      "lng": -25.5,
+      "bounds": [
+        [
+          36.9,
+          -31.3
+        ],
+        [
+          40.0,
+          -24.8
+        ]
+      ]
     }
   ],
   "CIUDADES": [
@@ -3973,1971 +4905,3219 @@
     },
     {
       "id": "gb-lon",
-      "nombre": "Londres",
       "region": "gb-eng",
+      "nombre": "Londres",
       "lat": 51.51,
       "lng": -0.13,
       "poblacion": 9000000
     },
     {
       "id": "gb-man",
-      "nombre": "Mánchester",
       "region": "gb-eng",
+      "nombre": "Mánchester",
       "lat": 53.48,
       "lng": -2.24,
       "poblacion": 553000
     },
     {
       "id": "gb-bir",
-      "nombre": "Birmingham",
       "region": "gb-eng",
+      "nombre": "Birmingham",
       "lat": 52.48,
       "lng": -1.9,
       "poblacion": 1145000
     },
     {
       "id": "gb-lee",
-      "nombre": "Leeds",
       "region": "gb-eng",
+      "nombre": "Leeds",
       "lat": 53.8,
       "lng": -1.55,
       "poblacion": 812000
     },
     {
       "id": "gb-liv",
-      "nombre": "Liverpool",
       "region": "gb-eng",
+      "nombre": "Liverpool",
       "lat": 53.41,
       "lng": -2.99,
       "poblacion": 498000
     },
     {
       "id": "gb-bri",
-      "nombre": "Bristol",
       "region": "gb-eng",
+      "nombre": "Bristol",
       "lat": 51.45,
       "lng": -2.6,
       "poblacion": 467000
     },
     {
       "id": "gb-she",
-      "nombre": "Sheffield",
       "region": "gb-eng",
+      "nombre": "Sheffield",
       "lat": 53.38,
       "lng": -1.47,
       "poblacion": 584000
     },
     {
       "id": "gb-cam",
-      "nombre": "Cambridge",
       "region": "gb-eng",
+      "nombre": "Cambridge",
       "lat": 52.21,
       "lng": 0.12,
       "poblacion": 145000
     },
     {
       "id": "gb-oxf",
-      "nombre": "Oxford",
       "region": "gb-eng",
+      "nombre": "Oxford",
       "lat": 51.75,
       "lng": -1.25,
       "poblacion": 162000
     },
     {
       "id": "gb-edi",
-      "nombre": "Edimburgo",
       "region": "gb-sco",
+      "nombre": "Edimburgo",
       "lat": 55.95,
       "lng": -3.19,
       "poblacion": 524000
     },
     {
       "id": "gb-gla",
-      "nombre": "Glasgow",
       "region": "gb-sco",
+      "nombre": "Glasgow",
       "lat": 55.86,
       "lng": -4.25,
       "poblacion": 635000
     },
     {
       "id": "gb-abe",
-      "nombre": "Aberdeen",
       "region": "gb-sco",
+      "nombre": "Aberdeen",
       "lat": 57.15,
       "lng": -2.09,
       "poblacion": 228000
     },
     {
       "id": "gb-inv",
-      "nombre": "Inverness",
       "region": "gb-sco",
+      "nombre": "Inverness",
       "lat": 57.48,
       "lng": -4.22,
       "poblacion": 46000
     },
     {
       "id": "gb-car",
-      "nombre": "Cardiff",
       "region": "gb-wal",
+      "nombre": "Cardiff",
       "lat": 51.48,
       "lng": -3.18,
       "poblacion": 362000
     },
     {
       "id": "gb-swa",
-      "nombre": "Swansea",
       "region": "gb-wal",
+      "nombre": "Swansea",
       "lat": 51.62,
       "lng": -3.94,
       "poblacion": 246000
     },
     {
       "id": "gb-bel",
-      "nombre": "Belfast",
       "region": "gb-nir",
+      "nombre": "Belfast",
       "lat": 54.6,
       "lng": -5.93,
       "poblacion": 343000
     },
     {
       "id": "gb-der",
-      "nombre": "Derry",
       "region": "gb-nir",
+      "nombre": "Derry",
       "lat": 54.99,
       "lng": -7.31,
       "poblacion": 83000
     },
     {
       "id": "ie-dub",
-      "nombre": "Dublín",
       "region": "ie-lei",
+      "nombre": "Dublín",
       "lat": 53.33,
       "lng": -6.25,
       "poblacion": 1173000
     },
     {
       "id": "ie-wic",
-      "nombre": "Wicklow",
       "region": "ie-lei",
+      "nombre": "Wicklow",
       "lat": 52.98,
       "lng": -6.04,
       "poblacion": 14000
     },
     {
       "id": "ie-cor",
-      "nombre": "Cork",
       "region": "ie-mun",
+      "nombre": "Cork",
       "lat": 51.9,
       "lng": -8.47,
       "poblacion": 210000
     },
     {
       "id": "ie-lim",
-      "nombre": "Limerick",
       "region": "ie-mun",
+      "nombre": "Limerick",
       "lat": 52.66,
       "lng": -8.63,
       "poblacion": 94000
     },
     {
       "id": "ie-kil",
-      "nombre": "Killarney",
       "region": "ie-mun",
+      "nombre": "Killarney",
       "lat": 52.06,
       "lng": -9.51,
       "poblacion": 14000
     },
     {
       "id": "ie-gal",
-      "nombre": "Galway",
       "region": "ie-con",
+      "nombre": "Galway",
       "lat": 53.27,
       "lng": -9.06,
       "poblacion": 80000
     },
     {
       "id": "ie-don",
-      "nombre": "Donegal",
       "region": "ie-uls",
+      "nombre": "Donegal",
       "lat": 54.65,
       "lng": -8.11,
       "poblacion": 8000
     },
     {
       "id": "at-vie",
-      "nombre": "Viena",
       "region": "at-vie",
+      "nombre": "Viena",
       "lat": 48.21,
       "lng": 16.37,
       "poblacion": 1897000
     },
     {
       "id": "at-inn",
-      "nombre": "Innsbruck",
       "region": "at-tir",
+      "nombre": "Innsbruck",
       "lat": 47.27,
       "lng": 11.39,
       "poblacion": 132000
     },
     {
       "id": "at-kuf",
-      "nombre": "Kufstein",
       "region": "at-tir",
+      "nombre": "Kufstein",
       "lat": 47.58,
       "lng": 12.17,
       "poblacion": 19000
     },
     {
       "id": "at-sal",
-      "nombre": "Salzburgo",
       "region": "at-sal",
+      "nombre": "Salzburgo",
       "lat": 47.8,
       "lng": 13.04,
       "poblacion": 155000
     },
     {
       "id": "at-hal",
-      "nombre": "Hallstatt",
       "region": "at-sal",
+      "nombre": "Hallstatt",
       "lat": 47.56,
       "lng": 13.65,
       "poblacion": 800
     },
     {
       "id": "at-gra",
-      "nombre": "Graz",
       "region": "at-ste",
+      "nombre": "Graz",
       "lat": 47.07,
       "lng": 15.44,
       "poblacion": 291000
     },
     {
       "id": "at-lin",
-      "nombre": "Linz",
       "region": "at-uao",
+      "nombre": "Linz",
       "lat": 48.31,
       "lng": 14.29,
       "poblacion": 206000
     },
     {
       "id": "at-wel",
-      "nombre": "Wels",
       "region": "at-uao",
+      "nombre": "Wels",
       "lat": 48.16,
       "lng": 14.03,
       "poblacion": 63000
     },
     {
       "id": "dk-cop",
-      "nombre": "Copenhague",
       "region": "dk-zel",
+      "nombre": "Copenhague",
       "lat": 55.68,
       "lng": 12.57,
       "poblacion": 794000
     },
     {
       "id": "dk-ros",
-      "nombre": "Roskilde",
       "region": "dk-zel",
+      "nombre": "Roskilde",
       "lat": 55.64,
       "lng": 12.08,
       "poblacion": 50000
     },
     {
       "id": "dk-aar",
-      "nombre": "Aarhus",
       "region": "dk-jut",
+      "nombre": "Aarhus",
       "lat": 56.16,
       "lng": 10.2,
       "poblacion": 285000
     },
     {
       "id": "dk-aal",
-      "nombre": "Aalborg",
       "region": "dk-jut",
+      "nombre": "Aalborg",
       "lat": 57.05,
       "lng": 9.92,
       "poblacion": 216000
     },
     {
       "id": "dk-esb",
-      "nombre": "Esbjerg",
       "region": "dk-jut",
+      "nombre": "Esbjerg",
       "lat": 55.47,
       "lng": 8.45,
       "poblacion": 72000
     },
     {
       "id": "dk-ode",
-      "nombre": "Odense",
       "region": "dk-fun",
+      "nombre": "Odense",
       "lat": 55.4,
       "lng": 10.38,
       "poblacion": 180000
     },
     {
       "id": "no-osl",
-      "nombre": "Oslo",
       "region": "no-vik",
+      "nombre": "Oslo",
       "lat": 59.91,
       "lng": 10.75,
       "poblacion": 693000
     },
     {
       "id": "no-dra",
-      "nombre": "Drammen",
       "region": "no-vik",
+      "nombre": "Drammen",
       "lat": 59.74,
       "lng": 10.2,
       "poblacion": 101000
     },
     {
       "id": "no-ber",
-      "nombre": "Bergen",
       "region": "no-ves",
+      "nombre": "Bergen",
       "lat": 60.39,
       "lng": 5.32,
       "poblacion": 285000
     },
     {
       "id": "no-sta",
-      "nombre": "Stavanger",
       "region": "no-ves",
+      "nombre": "Stavanger",
       "lat": 58.97,
       "lng": 5.73,
       "poblacion": 144000
     },
     {
       "id": "no-ale",
-      "nombre": "Ålesund",
       "region": "no-ves",
+      "nombre": "Ålesund",
       "lat": 62.47,
       "lng": 6.15,
       "poblacion": 67000
     },
     {
       "id": "no-tro",
-      "nombre": "Trondheim",
       "region": "no-tro",
+      "nombre": "Trondheim",
       "lat": 63.43,
       "lng": 10.39,
       "poblacion": 205000
     },
     {
       "id": "no-tom",
-      "nombre": "Tromsø",
       "region": "no-nor",
+      "nombre": "Tromsø",
       "lat": 69.65,
       "lng": 18.95,
       "poblacion": 78000
     },
     {
       "id": "no-bod",
-      "nombre": "Bodø",
       "region": "no-nor",
+      "nombre": "Bodø",
       "lat": 67.28,
       "lng": 14.38,
       "poblacion": 52000
     },
     {
       "id": "fi-hel",
-      "nombre": "Helsinki",
       "region": "fi-uus",
+      "nombre": "Helsinki",
       "lat": 60.17,
       "lng": 24.94,
       "poblacion": 658000
     },
     {
       "id": "fi-esp",
-      "nombre": "Espoo",
       "region": "fi-uus",
+      "nombre": "Espoo",
       "lat": 60.2,
       "lng": 24.66,
       "poblacion": 292000
     },
     {
       "id": "fi-van",
-      "nombre": "Vantaa",
       "region": "fi-uus",
+      "nombre": "Vantaa",
       "lat": 60.3,
       "lng": 25,
       "poblacion": 235000
     },
     {
       "id": "fi-tam",
-      "nombre": "Tampere",
       "region": "fi-pir",
+      "nombre": "Tampere",
       "lat": 61.5,
       "lng": 23.76,
       "poblacion": 238000
     },
     {
       "id": "fi-tur",
-      "nombre": "Turku",
       "region": "fi-var",
+      "nombre": "Turku",
       "lat": 60.45,
       "lng": 22.27,
       "poblacion": 192000
     },
     {
       "id": "fi-rov",
-      "nombre": "Rovaniemi",
       "region": "fi-lap",
+      "nombre": "Rovaniemi",
       "lat": 66.5,
       "lng": 25.73,
       "poblacion": 63000
     },
     {
       "id": "lu-lux",
-      "nombre": "Luxemburgo",
       "region": "lu-lux",
+      "nombre": "Luxemburgo",
       "lat": 49.61,
       "lng": 6.13,
       "poblacion": 128000
     },
     {
       "id": "lu-esc",
-      "nombre": "Esch-sur-Alzette",
       "region": "lu-lux",
+      "nombre": "Esch-sur-Alzette",
       "lat": 49.5,
       "lng": 5.98,
       "poblacion": 36000
     },
     {
       "id": "lu-ett",
-      "nombre": "Ettelbruck",
       "region": "lu-die",
+      "nombre": "Ettelbruck",
       "lat": 49.85,
       "lng": 6.1,
       "poblacion": 9000
     },
     {
       "id": "lu-gre",
-      "nombre": "Grevenmacher",
       "region": "lu-gre",
+      "nombre": "Grevenmacher",
       "lat": 49.68,
       "lng": 6.44,
       "poblacion": 4500
     },
     {
       "id": "li-vad",
-      "nombre": "Vaduz",
       "region": "li-nor",
+      "nombre": "Vaduz",
       "lat": 47.14,
       "lng": 9.52,
       "poblacion": 5800
     },
     {
       "id": "li-sch",
-      "nombre": "Schaan",
       "region": "li-nor",
+      "nombre": "Schaan",
       "lat": 47.17,
       "lng": 9.51,
       "poblacion": 6000
     },
     {
       "id": "li-tri",
-      "nombre": "Triesen",
       "region": "li-sur",
+      "nombre": "Triesen",
       "lat": 47.11,
       "lng": 9.52,
       "poblacion": 5000
     },
     {
       "id": "li-bal",
-      "nombre": "Balzers",
       "region": "li-sur",
+      "nombre": "Balzers",
       "lat": 47.07,
       "lng": 9.5,
       "poblacion": 4500
     },
     {
       "id": "mc-mon",
-      "nombre": "Mónaco",
       "region": "mc-mon",
+      "nombre": "Mónaco",
       "lat": 43.74,
       "lng": 7.43,
       "poblacion": 37000
     },
     {
       "id": "mc-mca",
-      "nombre": "Montecarlo",
       "region": "mc-mon",
+      "nombre": "Montecarlo",
       "lat": 43.739,
       "lng": 7.428,
       "poblacion": 3500
     },
     {
       "id": "mc-lac",
-      "nombre": "La Condamine",
       "region": "mc-mon",
+      "nombre": "La Condamine",
       "lat": 43.736,
       "lng": 7.42,
       "poblacion": 4000
     },
     {
       "id": "ad-avl",
-      "nombre": "Andorra la Vella",
       "region": "ad-and",
+      "nombre": "Andorra la Vella",
       "lat": 42.51,
       "lng": 1.52,
       "poblacion": 22000
     },
     {
       "id": "ad-esc",
-      "nombre": "Les Escaldes",
       "region": "ad-and",
+      "nombre": "Les Escaldes",
       "lat": 42.51,
       "lng": 1.54,
       "poblacion": 16000
     },
     {
       "id": "ad-enc",
-      "nombre": "Encamp",
       "region": "ad-can",
+      "nombre": "Encamp",
       "lat": 42.54,
       "lng": 1.58,
       "poblacion": 13000
     },
     {
       "id": "ad-can",
-      "nombre": "Canillo",
       "region": "ad-can",
+      "nombre": "Canillo",
       "lat": 42.57,
       "lng": 1.6,
       "poblacion": 4500
     },
     {
       "id": "sm-cit",
-      "nombre": "Ciudad de San Marino",
       "region": "sm-sam",
+      "nombre": "Ciudad de San Marino",
       "lat": 43.936,
       "lng": 12.447,
       "poblacion": 4500
     },
     {
       "id": "sm-bor",
-      "nombre": "Borgo Maggiore",
       "region": "sm-sam",
+      "nombre": "Borgo Maggiore",
       "lat": 43.94,
       "lng": 12.447,
       "poblacion": 6500
     },
     {
       "id": "sm-ser",
-      "nombre": "Serravalle",
       "region": "sm-sam",
+      "nombre": "Serravalle",
       "lat": 43.973,
       "lng": 12.477,
       "poblacion": 10000
     },
     {
       "id": "mt-val",
-      "nombre": "La Valeta",
       "region": "mt-mal",
+      "nombre": "La Valeta",
       "lat": 35.9,
       "lng": 14.51,
       "poblacion": 6000
     },
     {
       "id": "mt-sli",
-      "nombre": "Sliema",
       "region": "mt-mal",
+      "nombre": "Sliema",
       "lat": 35.91,
       "lng": 14.5,
       "poblacion": 20000
     },
     {
       "id": "mt-mdi",
-      "nombre": "Mdina",
       "region": "mt-mal",
+      "nombre": "Mdina",
       "lat": 35.89,
       "lng": 14.4,
       "poblacion": 300
     },
     {
       "id": "mt-bir",
-      "nombre": "Birżebbuġa",
       "region": "mt-mal",
+      "nombre": "Birżebbuġa",
       "lat": 35.82,
       "lng": 14.53,
       "poblacion": 11000
     },
     {
       "id": "mt-vic",
-      "nombre": "Victoria (Rabat)",
       "region": "mt-goz",
+      "nombre": "Victoria (Rabat)",
       "lat": 36.04,
       "lng": 14.24,
       "poblacion": 6500
     },
     {
       "id": "is-rek",
-      "nombre": "Reikiavik",
       "region": "is-cap",
+      "nombre": "Reikiavik",
       "lat": 64.14,
       "lng": -21.94,
       "poblacion": 138000
     },
     {
       "id": "is-kop",
-      "nombre": "Kópavogur",
       "region": "is-cap",
+      "nombre": "Kópavogur",
       "lat": 64.11,
       "lng": -21.92,
       "poblacion": 36000
     },
     {
       "id": "is-haf",
-      "nombre": "Hafnarfjörður",
       "region": "is-cap",
+      "nombre": "Hafnarfjörður",
       "lat": 64.07,
       "lng": -21.94,
       "poblacion": 30000
     },
     {
       "id": "is-aku",
-      "nombre": "Akureyri",
       "region": "is-nor",
+      "nombre": "Akureyri",
       "lat": 65.68,
       "lng": -18.1,
       "poblacion": 19000
     },
     {
       "id": "is-vik",
-      "nombre": "Vík",
       "region": "is-sur",
+      "nombre": "Vík",
       "lat": 63.42,
       "lng": -19,
       "poblacion": 300
     },
     {
       "id": "cz-pra",
-      "nombre": "Praga",
       "region": "cz-boh",
+      "nombre": "Praga",
       "lat": 50.08,
       "lng": 14.44,
       "poblacion": 1309000
     },
     {
       "id": "cz-plz",
-      "nombre": "Plzeň",
       "region": "cz-boh",
+      "nombre": "Plzeň",
       "lat": 49.74,
       "lng": 13.38,
       "poblacion": 174000
     },
     {
       "id": "cz-cbu",
-      "nombre": "České Budějovice",
       "region": "cz-boh",
+      "nombre": "České Budějovice",
       "lat": 48.97,
       "lng": 14.47,
       "poblacion": 94000
     },
     {
       "id": "cz-kar",
-      "nombre": "Karlovy Vary",
       "region": "cz-boh",
+      "nombre": "Karlovy Vary",
       "lat": 50.23,
       "lng": 12.87,
       "poblacion": 47000
     },
     {
       "id": "cz-brn",
-      "nombre": "Brno",
       "region": "cz-mor",
+      "nombre": "Brno",
       "lat": 49.2,
       "lng": 16.61,
       "poblacion": 382000
     },
     {
       "id": "cz-ost",
-      "nombre": "Ostrava",
       "region": "cz-sil",
+      "nombre": "Ostrava",
       "lat": 49.83,
       "lng": 18.29,
       "poblacion": 284000
     },
     {
       "id": "cz-olm",
-      "nombre": "Olomouc",
       "region": "cz-mor",
+      "nombre": "Olomouc",
       "lat": 49.59,
       "lng": 17.25,
       "poblacion": 100000
     },
     {
       "id": "cz-zli",
-      "nombre": "Zlín",
       "region": "cz-mor",
+      "nombre": "Zlín",
       "lat": 49.22,
       "lng": 17.66,
       "poblacion": 74000
     },
     {
       "id": "sk-bra",
-      "nombre": "Bratislava",
       "region": "sk-bra",
+      "nombre": "Bratislava",
       "lat": 48.15,
       "lng": 17.11,
       "poblacion": 475000
     },
     {
       "id": "sk-trn",
-      "nombre": "Trnava",
       "region": "sk-occ",
+      "nombre": "Trnava",
       "lat": 48.38,
       "lng": 17.59,
       "poblacion": 66000
     },
     {
       "id": "sk-nit",
-      "nombre": "Nitra",
       "region": "sk-occ",
+      "nombre": "Nitra",
       "lat": 48.31,
       "lng": 18.09,
       "poblacion": 78000
     },
     {
       "id": "sk-bby",
-      "nombre": "Banská Bystrica",
       "region": "sk-cen",
+      "nombre": "Banská Bystrica",
       "lat": 48.74,
       "lng": 19.15,
       "poblacion": 78000
     },
     {
       "id": "sk-zil",
-      "nombre": "Žilina",
       "region": "sk-cen",
+      "nombre": "Žilina",
       "lat": 49.22,
       "lng": 18.74,
       "poblacion": 85000
     },
     {
       "id": "sk-kos",
-      "nombre": "Košice",
       "region": "sk-ori",
+      "nombre": "Košice",
       "lat": 48.72,
       "lng": 21.26,
       "poblacion": 239000
     },
     {
       "id": "sk-pre",
-      "nombre": "Prešov",
       "region": "sk-ori",
+      "nombre": "Prešov",
       "lat": 49,
       "lng": 21.24,
       "poblacion": 92000
     },
     {
       "id": "hu-bud",
-      "nombre": "Budapest",
       "region": "hu-bud",
+      "nombre": "Budapest",
       "lat": 47.5,
       "lng": 19.04,
       "poblacion": 1752000
     },
     {
       "id": "hu-gyo",
-      "nombre": "Győr",
       "region": "hu-tra",
+      "nombre": "Győr",
       "lat": 47.69,
       "lng": 17.63,
       "poblacion": 131000
     },
     {
       "id": "hu-pec",
-      "nombre": "Pécs",
       "region": "hu-tra",
+      "nombre": "Pécs",
       "lat": 46.08,
       "lng": 18.23,
       "poblacion": 143000
     },
     {
       "id": "hu-sop",
-      "nombre": "Sopron",
       "region": "hu-tra",
+      "nombre": "Sopron",
       "lat": 47.69,
       "lng": 16.59,
       "poblacion": 62000
     },
     {
       "id": "hu-deb",
-      "nombre": "Debrecen",
       "region": "hu-gln",
+      "nombre": "Debrecen",
       "lat": 47.53,
       "lng": 21.63,
       "poblacion": 202000
     },
     {
       "id": "hu-nyi",
-      "nombre": "Nyíregyháza",
       "region": "hu-gln",
+      "nombre": "Nyíregyháza",
       "lat": 47.96,
       "lng": 21.72,
       "poblacion": 118000
     },
     {
       "id": "hu-sze",
-      "nombre": "Szeged",
       "region": "hu-gls",
+      "nombre": "Szeged",
       "lat": 46.25,
       "lng": 20.15,
       "poblacion": 161000
     },
     {
       "id": "hu-kec",
-      "nombre": "Kecskemét",
       "region": "hu-gls",
+      "nombre": "Kecskemét",
       "lat": 46.91,
       "lng": 19.69,
       "poblacion": 112000
     },
     {
       "id": "ro-buc",
-      "nombre": "Bucarest",
       "region": "ro-val",
+      "nombre": "Bucarest",
       "lat": 44.43,
       "lng": 26.1,
       "poblacion": 1803000
     },
     {
       "id": "ro-plo",
-      "nombre": "Ploiești",
       "region": "ro-val",
+      "nombre": "Ploiești",
       "lat": 44.95,
       "lng": 26.02,
       "poblacion": 209000
     },
     {
       "id": "ro-cra",
-      "nombre": "Craiova",
       "region": "ro-val",
+      "nombre": "Craiova",
       "lat": 44.33,
       "lng": 23.8,
       "poblacion": 270000
     },
     {
       "id": "ro-clu",
-      "nombre": "Cluj-Napoca",
       "region": "ro-tra",
+      "nombre": "Cluj-Napoca",
       "lat": 46.77,
       "lng": 23.59,
       "poblacion": 325000
     },
     {
       "id": "ro-bra",
-      "nombre": "Brașov",
       "region": "ro-tra",
+      "nombre": "Brașov",
       "lat": 45.65,
       "lng": 25.61,
       "poblacion": 253000
     },
     {
       "id": "ro-sib",
-      "nombre": "Sibiu",
       "region": "ro-tra",
+      "nombre": "Sibiu",
       "lat": 45.8,
       "lng": 24.15,
       "poblacion": 147000
     },
     {
       "id": "ro-ias",
-      "nombre": "Iași",
       "region": "ro-mol",
+      "nombre": "Iași",
       "lat": 47.16,
       "lng": 27.59,
       "poblacion": 290000
     },
     {
       "id": "ro-bac",
-      "nombre": "Bacău",
       "region": "ro-mol",
+      "nombre": "Bacău",
       "lat": 46.57,
       "lng": 26.91,
       "poblacion": 144000
     },
     {
       "id": "ro-con",
-      "nombre": "Constanța",
       "region": "ro-dob",
+      "nombre": "Constanța",
       "lat": 44.18,
       "lng": 28.65,
       "poblacion": 284000
     },
     {
       "id": "bg-sof",
-      "nombre": "Sofía",
       "region": "bg-sof",
+      "nombre": "Sofía",
       "lat": 42.7,
       "lng": 23.32,
       "poblacion": 1238000
     },
     {
       "id": "bg-plo",
-      "nombre": "Plovdiv",
       "region": "bg-plo",
+      "nombre": "Plovdiv",
       "lat": 42.15,
       "lng": 24.75,
       "poblacion": 346000
     },
     {
       "id": "bg-sta",
-      "nombre": "Stara Zagora",
       "region": "bg-plo",
+      "nombre": "Stara Zagora",
       "lat": 42.43,
       "lng": 25.64,
       "poblacion": 138000
     },
     {
       "id": "bg-var",
-      "nombre": "Varna",
       "region": "bg-var",
+      "nombre": "Varna",
       "lat": 43.22,
       "lng": 27.91,
       "poblacion": 336000
     },
     {
       "id": "bg-bur",
-      "nombre": "Burgas",
       "region": "bg-var",
+      "nombre": "Burgas",
       "lat": 42.51,
       "lng": 27.47,
       "poblacion": 203000
     },
     {
       "id": "bg-rus",
-      "nombre": "Ruse",
       "region": "bg-nmi",
+      "nombre": "Ruse",
       "lat": 43.85,
       "lng": 25.95,
       "poblacion": 149000
     },
     {
       "id": "bg-ple",
-      "nombre": "Pleven",
       "region": "bg-nmi",
+      "nombre": "Pleven",
       "lat": 43.41,
       "lng": 24.62,
       "poblacion": 105000
     },
     {
       "id": "hr-zag",
-      "nombre": "Zagreb",
       "region": "hr-zag",
+      "nombre": "Zagreb",
       "lat": 45.81,
       "lng": 15.98,
       "poblacion": 806000
     },
     {
       "id": "hr-spl",
-      "nombre": "Split",
       "region": "hr-dal",
+      "nombre": "Split",
       "lat": 43.51,
       "lng": 16.44,
       "poblacion": 178000
     },
     {
       "id": "hr-dub",
-      "nombre": "Dubrovnik",
       "region": "hr-dal",
+      "nombre": "Dubrovnik",
       "lat": 42.65,
       "lng": 18.09,
       "poblacion": 42000
     },
     {
       "id": "hr-zad",
-      "nombre": "Zadar",
       "region": "hr-dal",
+      "nombre": "Zadar",
       "lat": 44.12,
       "lng": 15.23,
       "poblacion": 75000
     },
     {
       "id": "hr-osi",
-      "nombre": "Osijek",
       "region": "hr-sla",
+      "nombre": "Osijek",
       "lat": 45.55,
       "lng": 18.7,
       "poblacion": 108000
     },
     {
       "id": "hr-pul",
-      "nombre": "Pula",
       "region": "hr-ist",
+      "nombre": "Pula",
       "lat": 44.87,
       "lng": 13.85,
       "poblacion": 57000
     },
     {
       "id": "hr-rov",
-      "nombre": "Rovinj",
       "region": "hr-ist",
+      "nombre": "Rovinj",
       "lat": 45.08,
       "lng": 13.64,
       "poblacion": 14000
     },
     {
       "id": "si-lju",
-      "nombre": "Liubliana",
       "region": "si-lju",
+      "nombre": "Liubliana",
       "lat": 46.05,
       "lng": 14.51,
       "poblacion": 295000
     },
     {
       "id": "si-mar",
-      "nombre": "Maribor",
       "region": "si-mar",
+      "nombre": "Maribor",
       "lat": 46.56,
       "lng": 15.65,
       "poblacion": 112000
     },
     {
       "id": "si-cel",
-      "nombre": "Celje",
       "region": "si-mar",
+      "nombre": "Celje",
       "lat": 46.23,
       "lng": 15.27,
       "poblacion": 49000
     },
     {
       "id": "si-kop",
-      "nombre": "Koper",
       "region": "si-cos",
+      "nombre": "Koper",
       "lat": 45.55,
       "lng": 13.73,
       "poblacion": 26000
     },
     {
       "id": "si-pir",
-      "nombre": "Piran",
       "region": "si-cos",
+      "nombre": "Piran",
       "lat": 45.52,
       "lng": 13.57,
       "poblacion": 4600
     },
     {
       "id": "si-ble",
-      "nombre": "Bled",
       "region": "si-gor",
+      "nombre": "Bled",
       "lat": 46.37,
       "lng": 14.11,
       "poblacion": 8000
     },
     {
       "id": "si-kra",
-      "nombre": "Kranj",
       "region": "si-gor",
+      "nombre": "Kranj",
       "lat": 46.24,
       "lng": 14.36,
       "poblacion": 37000
     },
     {
       "id": "rs-beo",
-      "nombre": "Belgrado",
       "region": "rs-beo",
+      "nombre": "Belgrado",
       "lat": 44.82,
       "lng": 20.46,
       "poblacion": 1688000
     },
     {
       "id": "rs-nsa",
-      "nombre": "Novi Sad",
       "region": "rs-voj",
+      "nombre": "Novi Sad",
       "lat": 45.25,
       "lng": 19.83,
       "poblacion": 289000
     },
     {
       "id": "rs-sub",
-      "nombre": "Subotica",
       "region": "rs-voj",
+      "nombre": "Subotica",
       "lat": 46.1,
       "lng": 19.67,
       "poblacion": 97000
     },
     {
       "id": "rs-nis",
-      "nombre": "Niš",
       "region": "rs-cen",
+      "nombre": "Niš",
       "lat": 43.32,
       "lng": 21.9,
       "poblacion": 260000
     },
     {
       "id": "rs-kra",
-      "nombre": "Kragujevac",
       "region": "rs-cen",
+      "nombre": "Kragujevac",
       "lat": 44.01,
       "lng": 20.92,
       "poblacion": 150000
     },
     {
       "id": "rs-npa",
-      "nombre": "Novi Pazar",
       "region": "rs-sur",
+      "nombre": "Novi Pazar",
       "lat": 43.14,
       "lng": 20.52,
       "poblacion": 67000
     },
     {
       "id": "rs-les",
-      "nombre": "Leskovac",
       "region": "rs-sur",
+      "nombre": "Leskovac",
       "lat": 42.99,
       "lng": 21.95,
       "poblacion": 59000
     },
     {
       "id": "ba-sar",
-      "nombre": "Sarajevo",
       "region": "ba-fed",
+      "nombre": "Sarajevo",
       "lat": 43.85,
       "lng": 18.36,
       "poblacion": 275000
     },
     {
       "id": "ba-mos",
-      "nombre": "Mostar",
       "region": "ba-fed",
+      "nombre": "Mostar",
       "lat": 43.34,
       "lng": 17.81,
       "poblacion": 105000
     },
     {
       "id": "ba-tuz",
-      "nombre": "Tuzla",
       "region": "ba-fed",
+      "nombre": "Tuzla",
       "lat": 44.54,
       "lng": 18.67,
       "poblacion": 120000
     },
     {
       "id": "ba-bnl",
-      "nombre": "Banja Luka",
       "region": "ba-srp",
+      "nombre": "Banja Luka",
       "lat": 44.77,
       "lng": 17.19,
       "poblacion": 221000
     },
     {
       "id": "ba-tre",
-      "nombre": "Trebinje",
       "region": "ba-srp",
+      "nombre": "Trebinje",
       "lat": 42.71,
       "lng": 18.34,
       "poblacion": 30000
     },
     {
       "id": "me-pod",
-      "nombre": "Podgorica",
       "region": "me-pod",
+      "nombre": "Podgorica",
       "lat": 42.44,
       "lng": 19.26,
       "poblacion": 150000
     },
     {
       "id": "me-nik",
-      "nombre": "Nikšić",
       "region": "me-pod",
+      "nombre": "Nikšić",
       "lat": 42.77,
       "lng": 18.94,
       "poblacion": 72000
     },
     {
       "id": "me-bud",
-      "nombre": "Budva",
       "region": "me-cos",
+      "nombre": "Budva",
       "lat": 42.29,
       "lng": 18.84,
       "poblacion": 19000
     },
     {
       "id": "me-kot",
-      "nombre": "Kotor",
       "region": "me-cos",
+      "nombre": "Kotor",
       "lat": 42.42,
       "lng": 18.77,
       "poblacion": 13000
     },
     {
       "id": "me-bar",
-      "nombre": "Bar",
       "region": "me-cos",
+      "nombre": "Bar",
       "lat": 42.1,
       "lng": 19.1,
       "poblacion": 17000
     },
     {
       "id": "me-kol",
-      "nombre": "Kolašin",
       "region": "me-nor",
+      "nombre": "Kolašin",
       "lat": 42.82,
       "lng": 19.52,
       "poblacion": 9000
     },
     {
       "id": "mk-sko",
-      "nombre": "Skopie",
       "region": "mk-sko",
+      "nombre": "Skopie",
       "lat": 42,
       "lng": 21.43,
       "poblacion": 544000
     },
     {
       "id": "mk-vel",
-      "nombre": "Veles",
       "region": "mk-sko",
+      "nombre": "Veles",
       "lat": 41.72,
       "lng": 21.77,
       "poblacion": 55000
     },
     {
       "id": "mk-ohr",
-      "nombre": "Ohrid",
       "region": "mk-pel",
+      "nombre": "Ohrid",
       "lat": 41.12,
       "lng": 20.8,
       "poblacion": 42000
     },
     {
       "id": "mk-bit",
-      "nombre": "Bitola",
       "region": "mk-pel",
+      "nombre": "Bitola",
       "lat": 41.03,
       "lng": 21.33,
       "poblacion": 74000
     },
     {
       "id": "mk-kum",
-      "nombre": "Kumanovo",
       "region": "mk-nor",
+      "nombre": "Kumanovo",
       "lat": 42.13,
       "lng": 21.72,
       "poblacion": 105000
     },
     {
       "id": "al-tir",
-      "nombre": "Tirana",
       "region": "al-tir",
+      "nombre": "Tirana",
       "lat": 41.33,
       "lng": 19.82,
       "poblacion": 800000
     },
     {
       "id": "al-dur",
-      "nombre": "Durrës",
       "region": "al-tir",
+      "nombre": "Durrës",
       "lat": 41.32,
       "lng": 19.45,
       "poblacion": 115000
     },
     {
       "id": "al-shk",
-      "nombre": "Shkodra",
       "region": "al-nor",
+      "nombre": "Shkodra",
       "lat": 42.07,
       "lng": 19.51,
       "poblacion": 82000
     },
     {
       "id": "al-vlo",
-      "nombre": "Vlora",
       "region": "al-sur",
+      "nombre": "Vlora",
       "lat": 40.47,
       "lng": 19.49,
       "poblacion": 79000
     },
     {
       "id": "al-sar",
-      "nombre": "Saranda",
       "region": "al-sur",
+      "nombre": "Saranda",
       "lat": 39.87,
       "lng": 20.01,
       "poblacion": 20000
     },
     {
       "id": "al-kor",
-      "nombre": "Korça",
       "region": "al-sur",
+      "nombre": "Korça",
       "lat": 40.62,
       "lng": 20.78,
       "poblacion": 51000
     },
     {
       "id": "xk-pri",
-      "nombre": "Prishtina",
       "region": "xk-pri",
+      "nombre": "Prishtina",
       "lat": 42.67,
       "lng": 21.17,
       "poblacion": 218000
     },
     {
       "id": "xk-mit",
-      "nombre": "Mitrovica",
       "region": "xk-pri",
+      "nombre": "Mitrovica",
       "lat": 42.89,
       "lng": 20.87,
       "poblacion": 75000
     },
     {
       "id": "xk-prz",
-      "nombre": "Prizren",
       "region": "xk-sur",
+      "nombre": "Prizren",
       "lat": 42.21,
       "lng": 20.74,
       "poblacion": 178000
     },
     {
       "id": "xk-pej",
-      "nombre": "Peja",
       "region": "xk-sur",
+      "nombre": "Peja",
       "lat": 42.66,
       "lng": 20.29,
       "poblacion": 96000
     },
     {
       "id": "md-chi",
-      "nombre": "Chișinău",
       "region": "md-chi",
+      "nombre": "Chișinău",
       "lat": 47.01,
       "lng": 28.86,
       "poblacion": 635000
     },
     {
       "id": "md-bal",
-      "nombre": "Bălți",
       "region": "md-nor",
+      "nombre": "Bălți",
       "lat": 47.76,
       "lng": 27.93,
       "poblacion": 148000
     },
     {
       "id": "md-sor",
-      "nombre": "Soroca",
       "region": "md-nor",
+      "nombre": "Soroca",
       "lat": 48.16,
       "lng": 28.29,
       "poblacion": 28000
     },
     {
       "id": "md-com",
-      "nombre": "Comrat",
       "region": "md-sur",
+      "nombre": "Comrat",
       "lat": 46.3,
       "lng": 28.67,
       "poblacion": 25000
     },
     {
       "id": "md-cah",
-      "nombre": "Cahul",
       "region": "md-sur",
+      "nombre": "Cahul",
       "lat": 45.91,
       "lng": 28.2,
       "poblacion": 36000
     },
     {
       "id": "ua-kie",
-      "nombre": "Kiev",
       "region": "ua-kie",
+      "nombre": "Kiev",
       "lat": 50.45,
       "lng": 30.52,
       "poblacion": 2950000
     },
     {
       "id": "ua-che",
-      "nombre": "Chernígov",
       "region": "ua-kie",
+      "nombre": "Chernígov",
       "lat": 51.5,
       "lng": 31.3,
       "poblacion": 282000
     },
     {
       "id": "ua-lvi",
-      "nombre": "Lviv",
       "region": "ua-occ",
+      "nombre": "Lviv",
       "lat": 49.84,
       "lng": 24.03,
       "poblacion": 717000
     },
     {
       "id": "ua-ivf",
-      "nombre": "Ivano-Frankivsk",
       "region": "ua-occ",
+      "nombre": "Ivano-Frankivsk",
       "lat": 48.92,
       "lng": 24.71,
       "poblacion": 218000
     },
     {
       "id": "ua-kha",
-      "nombre": "Járkov",
       "region": "ua-ori",
+      "nombre": "Járkov",
       "lat": 50,
       "lng": 36.23,
       "poblacion": 1421000
     },
     {
       "id": "ua-zap",
-      "nombre": "Zaporiyia",
       "region": "ua-ori",
+      "nombre": "Zaporiyia",
       "lat": 47.84,
       "lng": 35.14,
       "poblacion": 722000
     },
     {
       "id": "ua-ode",
-      "nombre": "Odesa",
       "region": "ua-sur",
+      "nombre": "Odesa",
       "lat": 46.48,
       "lng": 30.73,
       "poblacion": 993000
     },
     {
       "id": "ua-dni",
-      "nombre": "Dnipro",
       "region": "ua-sur",
+      "nombre": "Dnipro",
       "lat": 48.46,
       "lng": 35.05,
       "poblacion": 969000
     },
     {
       "id": "by-min",
-      "nombre": "Minsk",
       "region": "by-min",
+      "nombre": "Minsk",
       "lat": 53.9,
       "lng": 27.57,
       "poblacion": 1982000
     },
     {
       "id": "by-brs",
-      "nombre": "Brest",
       "region": "by-occ",
+      "nombre": "Brest",
       "lat": 52.1,
       "lng": 23.68,
       "poblacion": 350000
     },
     {
       "id": "by-grd",
-      "nombre": "Grodno",
       "region": "by-occ",
+      "nombre": "Grodno",
       "lat": 53.68,
       "lng": 23.83,
       "poblacion": 373000
     },
     {
       "id": "by-vit",
-      "nombre": "Vitebsk",
       "region": "by-ori",
+      "nombre": "Vitebsk",
       "lat": 55.19,
       "lng": 30.2,
       "poblacion": 366000
     },
     {
       "id": "by-gom",
-      "nombre": "Gomel",
       "region": "by-ori",
+      "nombre": "Gomel",
       "lat": 52.44,
       "lng": 30.99,
       "poblacion": 481000
     },
     {
       "id": "by-mog",
-      "nombre": "Moguilev",
       "region": "by-ori",
+      "nombre": "Moguilev",
       "lat": 53.9,
       "lng": 30.33,
       "poblacion": 369000
     },
     {
       "id": "lt-vil",
-      "nombre": "Vilna",
       "region": "lt-vil",
+      "nombre": "Vilna",
       "lat": 54.69,
       "lng": 25.28,
       "poblacion": 574000
     },
     {
       "id": "lt-kau",
-      "nombre": "Kaunas",
       "region": "lt-kau",
+      "nombre": "Kaunas",
       "lat": 54.9,
       "lng": 23.9,
       "poblacion": 289000
     },
     {
       "id": "lt-sia",
-      "nombre": "Šiauliai",
       "region": "lt-kla",
+      "nombre": "Šiauliai",
       "lat": 55.93,
       "lng": 23.31,
       "poblacion": 107000
     },
     {
       "id": "lt-kla",
-      "nombre": "Klaipeda",
       "region": "lt-kla",
+      "nombre": "Klaipeda",
       "lat": 55.71,
       "lng": 21.13,
       "poblacion": 152000
     },
     {
       "id": "lt-pan",
-      "nombre": "Panevėžys",
       "region": "lt-kau",
+      "nombre": "Panevėžys",
       "lat": 55.73,
       "lng": 24.36,
       "poblacion": 96000
     },
     {
       "id": "lv-rig",
-      "nombre": "Riga",
       "region": "lv-rig",
+      "nombre": "Riga",
       "lat": 56.95,
       "lng": 24.11,
       "poblacion": 632000
     },
     {
       "id": "lv-val",
-      "nombre": "Valmiera",
       "region": "lv-vid",
+      "nombre": "Valmiera",
       "lat": 57.54,
       "lng": 25.42,
       "poblacion": 24000
     },
     {
       "id": "lv-lie",
-      "nombre": "Liepāja",
       "region": "lv-kur",
+      "nombre": "Liepāja",
       "lat": 56.51,
       "lng": 21.01,
       "poblacion": 69000
     },
     {
       "id": "lv-ven",
-      "nombre": "Ventspils",
       "region": "lv-kur",
+      "nombre": "Ventspils",
       "lat": 57.39,
       "lng": 21.56,
       "poblacion": 36000
     },
     {
       "id": "lv-jel",
-      "nombre": "Jelgava",
       "region": "lv-zem",
+      "nombre": "Jelgava",
       "lat": 56.65,
       "lng": 23.72,
       "poblacion": 55000
     },
     {
       "id": "lv-jur",
-      "nombre": "Jūrmala",
       "region": "lv-rig",
+      "nombre": "Jūrmala",
       "lat": 56.97,
       "lng": 23.61,
       "poblacion": 49000
     },
     {
       "id": "ee-tal",
-      "nombre": "Tallín",
       "region": "ee-tal",
+      "nombre": "Tallín",
       "lat": 59.44,
       "lng": 24.75,
       "poblacion": 438000
     },
     {
       "id": "ee-tar",
-      "nombre": "Tartu",
       "region": "ee-tar",
+      "nombre": "Tartu",
       "lat": 58.38,
       "lng": 26.73,
       "poblacion": 93000
     },
     {
       "id": "ee-nar",
-      "nombre": "Narva",
       "region": "ee-nor",
+      "nombre": "Narva",
       "lat": 59.38,
       "lng": 28.19,
       "poblacion": 55000
     },
     {
       "id": "ee-par",
-      "nombre": "Pärnu",
       "region": "ee-tar",
+      "nombre": "Pärnu",
       "lat": 58.38,
       "lng": 24.5,
       "poblacion": 51000
     },
     {
       "id": "ee-koh",
-      "nombre": "Kohtla-Järve",
       "region": "ee-nor",
+      "nombre": "Kohtla-Järve",
       "lat": 59.4,
       "lng": 27.27,
       "poblacion": 36000
     },
     {
       "id": "gr-ate",
-      "nombre": "Atenas",
       "region": "gr-ati",
+      "nombre": "Atenas",
       "lat": 37.98,
       "lng": 23.73,
       "poblacion": 664000
     },
     {
       "id": "gr-pir",
-      "nombre": "El Pireo",
       "region": "gr-ati",
+      "nombre": "El Pireo",
       "lat": 37.94,
       "lng": 23.65,
       "poblacion": 163000
     },
     {
       "id": "gr-sal",
-      "nombre": "Tesalónica",
       "region": "gr-mac",
+      "nombre": "Tesalónica",
       "lat": 40.64,
       "lng": 22.94,
       "poblacion": 326000
     },
     {
       "id": "gr-kat",
-      "nombre": "Katerini",
       "region": "gr-mac",
+      "nombre": "Katerini",
       "lat": 40.27,
       "lng": 22.51,
       "poblacion": 55000
     },
     {
       "id": "gr-her",
-      "nombre": "Heraclión",
       "region": "gr-cre",
+      "nombre": "Heraclión",
       "lat": 35.34,
       "lng": 25.13,
       "poblacion": 173000
     },
     {
       "id": "gr-cha",
-      "nombre": "Chania",
       "region": "gr-cre",
+      "nombre": "Chania",
       "lat": 35.51,
       "lng": 24.02,
       "poblacion": 109000
     },
     {
       "id": "gr-ret",
-      "nombre": "Rethimno",
       "region": "gr-cre",
+      "nombre": "Rethimno",
       "lat": 35.37,
       "lng": 24.47,
       "poblacion": 40000
     },
     {
       "id": "gr-pat",
-      "nombre": "Patras",
       "region": "gr-pel",
+      "nombre": "Patras",
       "lat": 38.25,
       "lng": 21.73,
       "poblacion": 168000
     },
     {
       "id": "gr-kal",
-      "nombre": "Kalamata",
       "region": "gr-pel",
+      "nombre": "Kalamata",
       "lat": 37.04,
       "lng": 22.11,
       "poblacion": 70000
     },
     {
       "id": "gr-rod",
-      "nombre": "Rodas",
       "region": "gr-aeg",
+      "nombre": "Rodas",
       "lat": 36.44,
       "lng": 28.22,
       "poblacion": 56000
     },
     {
       "id": "gr-kos",
-      "nombre": "Cos",
       "region": "gr-aeg",
+      "nombre": "Cos",
       "lat": 36.89,
       "lng": 27.29,
       "poblacion": 17000
     },
     {
       "id": "cy-nic",
-      "nombre": "Nicosia",
       "region": "cy-nic",
+      "nombre": "Nicosia",
       "lat": 35.17,
       "lng": 33.37,
       "poblacion": 330000
     },
     {
       "id": "cy-lim",
-      "nombre": "Limassol",
       "region": "cy-lim",
+      "nombre": "Limassol",
       "lat": 34.68,
       "lng": 33.04,
       "poblacion": 183000
     },
     {
       "id": "cy-lar",
-      "nombre": "Lárnaca",
       "region": "cy-est",
+      "nombre": "Lárnaca",
       "lat": 34.92,
       "lng": 33.64,
       "poblacion": 85000
     },
     {
       "id": "cy-paf",
-      "nombre": "Pafos",
       "region": "cy-lim",
+      "nombre": "Pafos",
       "lat": 34.77,
       "lng": 32.42,
       "poblacion": 36000
     },
     {
       "id": "cy-ama",
-      "nombre": "Ammochostos",
       "region": "cy-est",
+      "nombre": "Ammochostos",
       "lat": 35.12,
       "lng": 33.94,
       "poblacion": 43000
     },
     {
       "id": "ru-mos",
-      "nombre": "Moscú",
       "region": "ru-mos",
+      "nombre": "Moscú",
       "lat": 55.75,
       "lng": 37.62,
       "poblacion": 12500000
     },
     {
       "id": "ru-kaz",
-      "nombre": "Kazán",
       "region": "ru-vol",
+      "nombre": "Kazán",
       "lat": 55.79,
       "lng": 49.12,
       "poblacion": 1257000
     },
     {
       "id": "ru-nno",
-      "nombre": "Nizhni Nóvgorod",
       "region": "ru-vol",
+      "nombre": "Nizhni Nóvgorod",
       "lat": 56.33,
       "lng": 44,
       "poblacion": 1244000
     },
     {
       "id": "ru-sam",
-      "nombre": "Samara",
       "region": "ru-vol",
+      "nombre": "Samara",
       "lat": 53.2,
       "lng": 50.15,
       "poblacion": 1163000
     },
     {
       "id": "ru-spb",
-      "nombre": "San Petersburgo",
       "region": "ru-spb",
+      "nombre": "San Petersburgo",
       "lat": 59.94,
       "lng": 30.32,
       "poblacion": 5384000
     },
     {
       "id": "ru-nov",
-      "nombre": "Nóvgorod",
       "region": "ru-spb",
+      "nombre": "Nóvgorod",
       "lat": 58.52,
       "lng": 31.27,
       "poblacion": 224000
     },
     {
       "id": "ru-ros",
-      "nombre": "Rostov del Don",
       "region": "ru-sur",
+      "nombre": "Rostov del Don",
       "lat": 47.23,
       "lng": 39.72,
       "poblacion": 1125000
     },
     {
       "id": "ru-krd",
-      "nombre": "Krasnodar",
       "region": "ru-sur",
+      "nombre": "Krasnodar",
       "lat": 45.04,
       "lng": 38.98,
       "poblacion": 932000
     },
     {
       "id": "ru-soc",
-      "nombre": "Sochi",
       "region": "ru-sur",
+      "nombre": "Sochi",
       "lat": 43.6,
       "lng": 39.73,
       "poblacion": 443000
     },
     {
       "id": "tr-ist",
-      "nombre": "Estambul",
       "region": "tr-ist",
+      "nombre": "Estambul",
       "lat": 41.01,
       "lng": 28.95,
       "poblacion": 15460000
     },
     {
       "id": "tr-edi",
-      "nombre": "Edirne",
       "region": "tr-ist",
+      "nombre": "Edirne",
       "lat": 41.67,
       "lng": 26.56,
       "poblacion": 169000
     },
     {
       "id": "tr-tek",
-      "nombre": "Tekirdağ",
       "region": "tr-ist",
+      "nombre": "Tekirdağ",
       "lat": 40.98,
       "lng": 27.51,
       "poblacion": 167000
     },
     {
       "id": "ge-tbi",
-      "nombre": "Tiflis",
       "region": "ge-tbi",
+      "nombre": "Tiflis",
       "lat": 41.69,
       "lng": 44.83,
       "poblacion": 1118000
     },
     {
       "id": "ge-rut",
-      "nombre": "Rustavi",
       "region": "ge-tbi",
+      "nombre": "Rustavi",
       "lat": 41.55,
       "lng": 44.99,
       "poblacion": 122000
     },
     {
       "id": "ge-bat",
-      "nombre": "Batumi",
       "region": "ge-adj",
+      "nombre": "Batumi",
       "lat": 41.64,
       "lng": 41.63,
       "poblacion": 153000
     },
     {
       "id": "ge-kut",
-      "nombre": "Kutaisi",
       "region": "ge-ime",
+      "nombre": "Kutaisi",
       "lat": 42.27,
       "lng": 42.69,
       "poblacion": 147000
     },
     {
       "id": "ge-mts",
-      "nombre": "Mtskheta",
       "region": "ge-tbi",
+      "nombre": "Mtskheta",
       "lat": 41.85,
       "lng": 44.72,
       "poblacion": 8000
     },
     {
       "id": "am-ere",
-      "nombre": "Ereván",
       "region": "am-ere",
+      "nombre": "Ereván",
       "lat": 40.18,
       "lng": 44.51,
       "poblacion": 1075000
     },
     {
       "id": "am-gyu",
-      "nombre": "Gyumri",
       "region": "am-shi",
+      "nombre": "Gyumri",
       "lat": 40.79,
       "lng": 43.85,
       "poblacion": 121000
     },
     {
       "id": "am-van",
-      "nombre": "Vanadzor",
       "region": "am-ara",
+      "nombre": "Vanadzor",
       "lat": 40.81,
       "lng": 44.49,
       "poblacion": 86000
     },
     {
       "id": "am-ash",
-      "nombre": "Ashtarak",
       "region": "am-ere",
+      "nombre": "Ashtarak",
       "lat": 40.3,
       "lng": 44.36,
       "poblacion": 21000
     },
     {
       "id": "az-bak",
-      "nombre": "Bakú",
       "region": "az-bak",
+      "nombre": "Bakú",
       "lat": 40.41,
       "lng": 49.87,
       "poblacion": 2300000
     },
     {
       "id": "az-sum",
-      "nombre": "Sumqayit",
       "region": "az-bak",
+      "nombre": "Sumqayit",
       "lat": 40.59,
       "lng": 49.64,
       "poblacion": 341000
     },
     {
       "id": "az-gan",
-      "nombre": "Ganja",
       "region": "az-gan",
+      "nombre": "Ganja",
       "lat": 40.68,
       "lng": 46.36,
       "poblacion": 341000
     },
     {
       "id": "az-min",
-      "nombre": "Mingachevir",
       "region": "az-gan",
+      "nombre": "Mingachevir",
       "lat": 40.77,
       "lng": 47.05,
       "poblacion": 102000
     },
     {
       "id": "az-sha",
-      "nombre": "Shaki",
       "region": "az-nor",
+      "nombre": "Shaki",
       "lat": 41.19,
       "lng": 47.17,
       "poblacion": 82000
     },
     {
       "id": "va-bas",
-      "nombre": "Basílica de San Pedro",
       "region": "va-cit",
+      "nombre": "Basílica de San Pedro",
       "lat": 41.9022,
       "lng": 12.4539,
       "poblacion": null
     },
     {
       "id": "va-cap",
-      "nombre": "Capilla Sixtina",
       "region": "va-cit",
+      "nombre": "Capilla Sixtina",
       "lat": 41.9029,
       "lng": 12.4545,
       "poblacion": null
     },
     {
       "id": "va-mus",
-      "nombre": "Museos Vaticanos",
       "region": "va-cit",
+      "nombre": "Museos Vaticanos",
       "lat": 41.9065,
       "lng": 12.4536,
       "poblacion": null
+    },
+    {
+      "id": "es-hue-c",
+      "region": "es-an",
+      "nombre": "Huelva",
+      "lat": 37.261,
+      "lng": -6.944,
+      "poblacion": 144000
+    },
+    {
+      "id": "es-alm-c",
+      "region": "es-an",
+      "nombre": "Almería",
+      "lat": 36.84,
+      "lng": -2.465,
+      "poblacion": 195000
+    },
+    {
+      "id": "es-cad-c",
+      "region": "es-an",
+      "nombre": "Cádiz",
+      "lat": 36.527,
+      "lng": -6.289,
+      "poblacion": 116000
+    },
+    {
+      "id": "es-jan-c",
+      "region": "es-an",
+      "nombre": "Jaén",
+      "lat": 37.779,
+      "lng": -3.787,
+      "poblacion": 112000
+    },
+    {
+      "id": "es-cas-c",
+      "region": "es-vc",
+      "nombre": "Castellón de la Plana",
+      "lat": 39.986,
+      "lng": -0.049,
+      "poblacion": 171000
+    },
+    {
+      "id": "es-lug-c",
+      "region": "es-ga",
+      "nombre": "Lugo",
+      "lat": 43.012,
+      "lng": -7.556,
+      "poblacion": 98000
+    },
+    {
+      "id": "es-our-c",
+      "region": "es-ga",
+      "nombre": "Ourense",
+      "lat": 42.337,
+      "lng": -7.864,
+      "poblacion": 107000
+    },
+    {
+      "id": "es-leg-c",
+      "region": "es-md",
+      "nombre": "Leganés",
+      "lat": 40.329,
+      "lng": -3.764,
+      "poblacion": 190000
+    },
+    {
+      "id": "es-get-c",
+      "region": "es-md",
+      "nombre": "Getafe",
+      "lat": 40.306,
+      "lng": -3.73,
+      "poblacion": 183000
+    },
+    {
+      "id": "es-mat-c",
+      "region": "es-ct",
+      "nombre": "Mataró",
+      "lat": 41.537,
+      "lng": 2.445,
+      "poblacion": 127000
+    },
+    {
+      "id": "es-reu-c",
+      "region": "es-ct",
+      "nombre": "Reus",
+      "lat": 41.154,
+      "lng": 1.107,
+      "poblacion": 103000
+    },
+    {
+      "id": "es-sbr-c",
+      "region": "es-pv",
+      "nombre": "Barakaldo",
+      "lat": 43.297,
+      "lng": -2.988,
+      "poblacion": 101000
+    },
+    {
+      "id": "es-zar",
+      "region": "es-ar",
+      "nombre": "Zaragoza",
+      "lat": 41.65,
+      "lng": -0.887,
+      "poblacion": 675000
+    },
+    {
+      "id": "es-hue2",
+      "region": "es-ar",
+      "nombre": "Huesca",
+      "lat": 42.136,
+      "lng": -0.408,
+      "poblacion": 52000
+    },
+    {
+      "id": "es-ter",
+      "region": "es-ar",
+      "nombre": "Teruel",
+      "lat": 40.345,
+      "lng": -1.107,
+      "poblacion": 35000
+    },
+    {
+      "id": "es-cal",
+      "region": "es-ar",
+      "nombre": "Calatayud",
+      "lat": 41.354,
+      "lng": -1.641,
+      "poblacion": 20000
+    },
+    {
+      "id": "es-ovi",
+      "region": "es-as",
+      "nombre": "Oviedo",
+      "lat": 43.362,
+      "lng": -5.849,
+      "poblacion": 220000
+    },
+    {
+      "id": "es-gij",
+      "region": "es-as",
+      "nombre": "Gijón",
+      "lat": 43.537,
+      "lng": -5.663,
+      "poblacion": 271000
+    },
+    {
+      "id": "es-avi-c",
+      "region": "es-as",
+      "nombre": "Avilés",
+      "lat": 43.559,
+      "lng": -5.924,
+      "poblacion": 79000
+    },
+    {
+      "id": "es-san",
+      "region": "es-cb",
+      "nombre": "Santander",
+      "lat": 43.463,
+      "lng": -3.81,
+      "poblacion": 172000
+    },
+    {
+      "id": "es-tor",
+      "region": "es-cb",
+      "nombre": "Torrelavega",
+      "lat": 43.352,
+      "lng": -4.047,
+      "poblacion": 52000
+    },
+    {
+      "id": "es-bur",
+      "region": "es-cl",
+      "nombre": "Burgos",
+      "lat": 42.344,
+      "lng": -3.697,
+      "poblacion": 175000
+    },
+    {
+      "id": "es-leo",
+      "region": "es-cl",
+      "nombre": "León",
+      "lat": 42.6,
+      "lng": -5.571,
+      "poblacion": 124000
+    },
+    {
+      "id": "es-salam",
+      "region": "es-cl",
+      "nombre": "Salamanca",
+      "lat": 40.965,
+      "lng": -5.664,
+      "poblacion": 144000
+    },
+    {
+      "id": "es-val2",
+      "region": "es-cl",
+      "nombre": "Valladolid",
+      "lat": 41.652,
+      "lng": -4.728,
+      "poblacion": 304000
+    },
+    {
+      "id": "es-seg",
+      "region": "es-cl",
+      "nombre": "Segovia",
+      "lat": 40.948,
+      "lng": -4.118,
+      "poblacion": 53000
+    },
+    {
+      "id": "es-avi2",
+      "region": "es-cl",
+      "nombre": "Ávila",
+      "lat": 40.657,
+      "lng": -4.7,
+      "poblacion": 58000
+    },
+    {
+      "id": "es-sor",
+      "region": "es-cl",
+      "nombre": "Soria",
+      "lat": 41.763,
+      "lng": -2.465,
+      "poblacion": 39000
+    },
+    {
+      "id": "es-zam",
+      "region": "es-cl",
+      "nombre": "Zamora",
+      "lat": 41.503,
+      "lng": -5.745,
+      "poblacion": 61000
+    },
+    {
+      "id": "es-pal",
+      "region": "es-cl",
+      "nombre": "Palencia",
+      "lat": 42.01,
+      "lng": -4.534,
+      "poblacion": 77000
+    },
+    {
+      "id": "es-alb",
+      "region": "es-cm",
+      "nombre": "Albacete",
+      "lat": 38.994,
+      "lng": -1.858,
+      "poblacion": 174000
+    },
+    {
+      "id": "es-tol",
+      "region": "es-cm",
+      "nombre": "Toledo",
+      "lat": 39.857,
+      "lng": -4.024,
+      "poblacion": 84000
+    },
+    {
+      "id": "es-gua",
+      "region": "es-cm",
+      "nombre": "Guadalajara",
+      "lat": 40.632,
+      "lng": -3.163,
+      "poblacion": 76000
+    },
+    {
+      "id": "es-cr",
+      "region": "es-cm",
+      "nombre": "Ciudad Real",
+      "lat": 38.987,
+      "lng": -3.927,
+      "poblacion": 73000
+    },
+    {
+      "id": "es-cue",
+      "region": "es-cm",
+      "nombre": "Cuenca",
+      "lat": 40.07,
+      "lng": -2.135,
+      "poblacion": 55000
+    },
+    {
+      "id": "es-tala",
+      "region": "es-cm",
+      "nombre": "Talavera de la Reina",
+      "lat": 39.963,
+      "lng": -4.831,
+      "poblacion": 83000
+    },
+    {
+      "id": "es-mer",
+      "region": "es-ex",
+      "nombre": "Mérida",
+      "lat": 38.918,
+      "lng": -6.343,
+      "poblacion": 59000
+    },
+    {
+      "id": "es-bad",
+      "region": "es-ex",
+      "nombre": "Badajoz",
+      "lat": 38.879,
+      "lng": -6.97,
+      "poblacion": 151000
+    },
+    {
+      "id": "es-cac",
+      "region": "es-ex",
+      "nombre": "Cáceres",
+      "lat": 39.476,
+      "lng": -6.372,
+      "poblacion": 95000
+    },
+    {
+      "id": "es-pla",
+      "region": "es-ex",
+      "nombre": "Plasencia",
+      "lat": 40.03,
+      "lng": -6.088,
+      "poblacion": 40000
+    },
+    {
+      "id": "es-lgr",
+      "region": "es-ri",
+      "nombre": "Logroño",
+      "lat": 42.466,
+      "lng": -2.445,
+      "poblacion": 152000
+    },
+    {
+      "id": "es-cal2",
+      "region": "es-ri",
+      "nombre": "Calahorra",
+      "lat": 42.304,
+      "lng": -1.965,
+      "poblacion": 23000
+    },
+    {
+      "id": "es-har",
+      "region": "es-ri",
+      "nombre": "Haro",
+      "lat": 42.576,
+      "lng": -2.851,
+      "poblacion": 12000
+    },
+    {
+      "id": "es-mur",
+      "region": "es-mu",
+      "nombre": "Murcia",
+      "lat": 37.984,
+      "lng": -1.128,
+      "poblacion": 447000
+    },
+    {
+      "id": "es-car",
+      "region": "es-mu",
+      "nombre": "Cartagena",
+      "lat": 37.606,
+      "lng": -0.986,
+      "poblacion": 214000
+    },
+    {
+      "id": "es-lrc",
+      "region": "es-mu",
+      "nombre": "Lorca",
+      "lat": 37.671,
+      "lng": -1.699,
+      "poblacion": 92000
+    },
+    {
+      "id": "es-mol",
+      "region": "es-mu",
+      "nombre": "Molina de Segura",
+      "lat": 38.055,
+      "lng": -1.212,
+      "poblacion": 69000
+    },
+    {
+      "id": "es-pam",
+      "region": "es-na",
+      "nombre": "Pamplona",
+      "lat": 42.817,
+      "lng": -1.644,
+      "poblacion": 202000
+    },
+    {
+      "id": "es-tud",
+      "region": "es-na",
+      "nombre": "Tudela",
+      "lat": 42.061,
+      "lng": -1.608,
+      "poblacion": 35000
+    },
+    {
+      "id": "es-bar",
+      "region": "es-na",
+      "nombre": "Barañáin",
+      "lat": 42.807,
+      "lng": -1.671,
+      "poblacion": 22000
+    },
+    {
+      "id": "es-pal2",
+      "region": "es-ib",
+      "nombre": "Palma",
+      "lat": 39.569,
+      "lng": 2.65,
+      "poblacion": 409000
+    },
+    {
+      "id": "es-inca",
+      "region": "es-ib",
+      "nombre": "Inca",
+      "lat": 39.72,
+      "lng": 2.913,
+      "poblacion": 32000
+    },
+    {
+      "id": "es-mah",
+      "region": "es-ib",
+      "nombre": "Mahón",
+      "lat": 39.888,
+      "lng": 4.266,
+      "poblacion": 29000
+    },
+    {
+      "id": "es-eibi",
+      "region": "es-ib",
+      "nombre": "Ibiza",
+      "lat": 38.909,
+      "lng": 1.433,
+      "poblacion": 49000
+    },
+    {
+      "id": "es-cal3",
+      "region": "es-ib",
+      "nombre": "Calvià",
+      "lat": 39.563,
+      "lng": 2.509,
+      "poblacion": 50000
+    },
+    {
+      "id": "es-ciu",
+      "region": "es-ib",
+      "nombre": "Ciudadela",
+      "lat": 40.003,
+      "lng": 3.831,
+      "poblacion": 29000
+    },
+    {
+      "id": "es-lpa",
+      "region": "es-ic",
+      "nombre": "Las Palmas de Gran Canaria",
+      "lat": 28.124,
+      "lng": -15.43,
+      "poblacion": 379000
+    },
+    {
+      "id": "es-sct",
+      "region": "es-ic",
+      "nombre": "Santa Cruz de Tenerife",
+      "lat": 28.463,
+      "lng": -16.252,
+      "poblacion": 209000
+    },
+    {
+      "id": "es-lag",
+      "region": "es-ic",
+      "nombre": "San Cristóbal de La Laguna",
+      "lat": 28.487,
+      "lng": -16.313,
+      "poblacion": 154000
+    },
+    {
+      "id": "es-aro",
+      "region": "es-ic",
+      "nombre": "Arona",
+      "lat": 28.099,
+      "lng": -16.681,
+      "poblacion": 81000
+    },
+    {
+      "id": "es-pue",
+      "region": "es-ic",
+      "nombre": "Puerto del Rosario",
+      "lat": 28.5,
+      "lng": -13.862,
+      "poblacion": 38000
+    },
+    {
+      "id": "es-arr",
+      "region": "es-ic",
+      "nombre": "Arrecife",
+      "lat": 28.963,
+      "lng": -13.548,
+      "poblacion": 62000
+    },
+    {
+      "id": "es-ste",
+      "region": "es-ic",
+      "nombre": "Santa Cruz de La Palma",
+      "lat": 28.683,
+      "lng": -17.765,
+      "poblacion": 15000
+    },
+    {
+      "id": "es-add",
+      "region": "es-ic",
+      "nombre": "Adeje",
+      "lat": 28.123,
+      "lng": -16.724,
+      "poblacion": 46000
+    },
+    {
+      "id": "es-ceu",
+      "region": "es-ce",
+      "nombre": "Ceuta",
+      "lat": 35.89,
+      "lng": -5.322,
+      "poblacion": 84000
+    },
+    {
+      "id": "es-mel",
+      "region": "es-me",
+      "nombre": "Melilla",
+      "lat": 35.293,
+      "lng": -2.938,
+      "poblacion": 86000
+    },
+    {
+      "id": "fr-tou",
+      "region": "fr-occ",
+      "nombre": "Toulouse",
+      "lat": 43.604,
+      "lng": 1.444,
+      "poblacion": 471000
+    },
+    {
+      "id": "fr-mon",
+      "region": "fr-occ",
+      "nombre": "Montpellier",
+      "lat": 43.611,
+      "lng": 3.877,
+      "poblacion": 277000
+    },
+    {
+      "id": "fr-nim",
+      "region": "fr-occ",
+      "nombre": "Nimes",
+      "lat": 43.836,
+      "lng": 4.36,
+      "poblacion": 148000
+    },
+    {
+      "id": "fr-per",
+      "region": "fr-occ",
+      "nombre": "Perpignan",
+      "lat": 42.699,
+      "lng": 2.895,
+      "poblacion": 120000
+    },
+    {
+      "id": "fr-bor",
+      "region": "fr-aqn",
+      "nombre": "Burdeos",
+      "lat": 44.837,
+      "lng": -0.579,
+      "poblacion": 252000
+    },
+    {
+      "id": "fr-bya",
+      "region": "fr-aqn",
+      "nombre": "Bayona",
+      "lat": 43.492,
+      "lng": -1.475,
+      "poblacion": 50000
+    },
+    {
+      "id": "fr-lib",
+      "region": "fr-aqn",
+      "nombre": "Libourne",
+      "lat": 44.919,
+      "lng": -0.239,
+      "poblacion": 24000
+    },
+    {
+      "id": "fr-pau",
+      "region": "fr-aqn",
+      "nombre": "Pau",
+      "lat": 43.3,
+      "lng": -0.369,
+      "poblacion": 77000
+    },
+    {
+      "id": "fr-nan",
+      "region": "fr-pll",
+      "nombre": "Nantes",
+      "lat": 47.218,
+      "lng": -1.554,
+      "poblacion": 303000
+    },
+    {
+      "id": "fr-ans",
+      "region": "fr-pll",
+      "nombre": "Angers",
+      "lat": 47.473,
+      "lng": -0.551,
+      "poblacion": 154000
+    },
+    {
+      "id": "fr-lem",
+      "region": "fr-pll",
+      "nombre": "Le Mans",
+      "lat": 48.003,
+      "lng": 0.2,
+      "poblacion": 144000
+    },
+    {
+      "id": "fr-tur",
+      "region": "fr-cvl",
+      "nombre": "Tours",
+      "lat": 47.394,
+      "lng": 0.685,
+      "poblacion": 136000
+    },
+    {
+      "id": "fr-org",
+      "region": "fr-cvl",
+      "nombre": "Orléans",
+      "lat": 47.902,
+      "lng": 1.909,
+      "poblacion": 116000
+    },
+    {
+      "id": "fr-dij",
+      "region": "fr-bou",
+      "nombre": "Dijon",
+      "lat": 47.322,
+      "lng": 5.041,
+      "poblacion": 156000
+    },
+    {
+      "id": "fr-bsa",
+      "region": "fr-bou",
+      "nombre": "Besançon",
+      "lat": 47.237,
+      "lng": 6.032,
+      "poblacion": 117000
+    },
+    {
+      "id": "fr-lil",
+      "region": "fr-hdf",
+      "nombre": "Lille",
+      "lat": 50.629,
+      "lng": 3.057,
+      "poblacion": 232000
+    },
+    {
+      "id": "fr-amie",
+      "region": "fr-hdf",
+      "nombre": "Amiens",
+      "lat": 49.895,
+      "lng": 2.302,
+      "poblacion": 134000
+    },
+    {
+      "id": "fr-str",
+      "region": "fr-gel",
+      "nombre": "Estrasburgo",
+      "lat": 48.584,
+      "lng": 7.745,
+      "poblacion": 280000
+    },
+    {
+      "id": "fr-mul",
+      "region": "fr-gel",
+      "nombre": "Mulhouse",
+      "lat": 47.75,
+      "lng": 7.335,
+      "poblacion": 111000
+    },
+    {
+      "id": "fr-metz",
+      "region": "fr-gel",
+      "nombre": "Metz",
+      "lat": 49.119,
+      "lng": 6.177,
+      "poblacion": 118000
+    },
+    {
+      "id": "fr-rei",
+      "region": "fr-gel",
+      "nombre": "Reims",
+      "lat": 49.258,
+      "lng": 4.032,
+      "poblacion": 183000
+    },
+    {
+      "id": "fr-nan2",
+      "region": "fr-gel",
+      "nombre": "Nancy",
+      "lat": 48.692,
+      "lng": 6.184,
+      "poblacion": 104000
+    },
+    {
+      "id": "fr-ajc",
+      "region": "fr-cor",
+      "nombre": "Ajaccio",
+      "lat": 41.919,
+      "lng": 8.738,
+      "poblacion": 70000
+    },
+    {
+      "id": "fr-bst",
+      "region": "fr-cor",
+      "nombre": "Bastia",
+      "lat": 42.697,
+      "lng": 9.451,
+      "poblacion": 44000
+    },
+    {
+      "id": "de-stu",
+      "region": "de-baw",
+      "nombre": "Stuttgart",
+      "lat": 48.775,
+      "lng": 9.182,
+      "poblacion": 634000
+    },
+    {
+      "id": "de-kar",
+      "region": "de-baw",
+      "nombre": "Karlsruhe",
+      "lat": 49.007,
+      "lng": 8.404,
+      "poblacion": 308000
+    },
+    {
+      "id": "de-man",
+      "region": "de-baw",
+      "nombre": "Mannheim",
+      "lat": 49.488,
+      "lng": 8.466,
+      "poblacion": 310000
+    },
+    {
+      "id": "de-fre",
+      "region": "de-baw",
+      "nombre": "Friburgo de Brisgovia",
+      "lat": 47.997,
+      "lng": 7.847,
+      "poblacion": 229000
+    },
+    {
+      "id": "de-ulm",
+      "region": "de-baw",
+      "nombre": "Ulm",
+      "lat": 48.401,
+      "lng": 9.994,
+      "poblacion": 126000
+    },
+    {
+      "id": "de-hei",
+      "region": "de-baw",
+      "nombre": "Heidelberg",
+      "lat": 49.399,
+      "lng": 8.673,
+      "poblacion": 157000
+    },
+    {
+      "id": "de-han",
+      "region": "de-lsa",
+      "nombre": "Hannover",
+      "lat": 52.375,
+      "lng": 9.735,
+      "poblacion": 536000
+    },
+    {
+      "id": "de-ols",
+      "region": "de-lsa",
+      "nombre": "Oldenburg",
+      "lat": 53.143,
+      "lng": 8.214,
+      "poblacion": 167000
+    },
+    {
+      "id": "de-brw",
+      "region": "de-lsa",
+      "nombre": "Braunschweig",
+      "lat": 52.268,
+      "lng": 10.527,
+      "poblacion": 248000
+    },
+    {
+      "id": "de-fra",
+      "region": "de-hes",
+      "nombre": "Fráncfort",
+      "lat": 50.11,
+      "lng": 8.682,
+      "poblacion": 753000
+    },
+    {
+      "id": "de-wie",
+      "region": "de-hes",
+      "nombre": "Wiesbaden",
+      "lat": 50.082,
+      "lng": 8.244,
+      "poblacion": 278000
+    },
+    {
+      "id": "de-kas",
+      "region": "de-hes",
+      "nombre": "Kassel",
+      "lat": 51.316,
+      "lng": 9.499,
+      "poblacion": 201000
+    },
+    {
+      "id": "de-mai",
+      "region": "de-rpl",
+      "nombre": "Maguncia",
+      "lat": 49.992,
+      "lng": 8.247,
+      "poblacion": 215000
+    },
+    {
+      "id": "de-kob",
+      "region": "de-rpl",
+      "nombre": "Coblenza",
+      "lat": 50.36,
+      "lng": 7.598,
+      "poblacion": 114000
+    },
+    {
+      "id": "de-tri",
+      "region": "de-rpl",
+      "nombre": "Tréveris",
+      "lat": 49.749,
+      "lng": 6.637,
+      "poblacion": 110000
+    },
+    {
+      "id": "de-pot",
+      "region": "de-bra",
+      "nombre": "Potsdam",
+      "lat": 52.396,
+      "lng": 13.058,
+      "poblacion": 183000
+    },
+    {
+      "id": "de-cot",
+      "region": "de-bra",
+      "nombre": "Cottbus",
+      "lat": 51.758,
+      "lng": 14.333,
+      "poblacion": 100000
+    },
+    {
+      "id": "de-ros",
+      "region": "de-mec",
+      "nombre": "Rostock",
+      "lat": 54.092,
+      "lng": 12.099,
+      "poblacion": 208000
+    },
+    {
+      "id": "de-swn",
+      "region": "de-mec",
+      "nombre": "Schwerin",
+      "lat": 53.629,
+      "lng": 11.414,
+      "poblacion": 96000
+    },
+    {
+      "id": "de-erf",
+      "region": "de-thu",
+      "nombre": "Érfurt",
+      "lat": 50.984,
+      "lng": 11.029,
+      "poblacion": 213000
+    },
+    {
+      "id": "de-jen",
+      "region": "de-thu",
+      "nombre": "Jena",
+      "lat": 50.927,
+      "lng": 11.589,
+      "poblacion": 111000
+    },
+    {
+      "id": "de-sab",
+      "region": "de-sar",
+      "nombre": "Saarbrücken",
+      "lat": 49.234,
+      "lng": 7.0,
+      "poblacion": 180000
+    },
+    {
+      "id": "de-mag",
+      "region": "de-sha",
+      "nombre": "Magdeburgo",
+      "lat": 52.129,
+      "lng": 11.628,
+      "poblacion": 236000
+    },
+    {
+      "id": "de-hal",
+      "region": "de-sha",
+      "nombre": "Halle",
+      "lat": 51.483,
+      "lng": 11.97,
+      "poblacion": 238000
+    },
+    {
+      "id": "de-kie",
+      "region": "de-shl",
+      "nombre": "Kiel",
+      "lat": 54.323,
+      "lng": 10.135,
+      "poblacion": 247000
+    },
+    {
+      "id": "de-lüb",
+      "region": "de-shl",
+      "nombre": "Lübeck",
+      "lat": 53.866,
+      "lng": 10.685,
+      "poblacion": 216000
+    },
+    {
+      "id": "de-brm",
+      "region": "de-bre",
+      "nombre": "Bremen",
+      "lat": 53.073,
+      "lng": 8.807,
+      "poblacion": 569000
+    },
+    {
+      "id": "it-nap",
+      "region": "it-cam",
+      "nombre": "Nápoles",
+      "lat": 40.851,
+      "lng": 14.268,
+      "poblacion": 958000
+    },
+    {
+      "id": "it-sal",
+      "region": "it-cam",
+      "nombre": "Salerno",
+      "lat": 40.681,
+      "lng": 14.768,
+      "poblacion": 133000
+    },
+    {
+      "id": "it-cas",
+      "region": "it-cam",
+      "nombre": "Caserta",
+      "lat": 41.074,
+      "lng": 14.333,
+      "poblacion": 76000
+    },
+    {
+      "id": "it-pom",
+      "region": "it-cam",
+      "nombre": "Pompeya",
+      "lat": 40.749,
+      "lng": 14.5,
+      "poblacion": 25000
+    },
+    {
+      "id": "it-bar",
+      "region": "it-apu",
+      "nombre": "Bari",
+      "lat": 41.125,
+      "lng": 16.867,
+      "poblacion": 325000
+    },
+    {
+      "id": "it-tar",
+      "region": "it-apu",
+      "nombre": "Taranto",
+      "lat": 40.464,
+      "lng": 17.247,
+      "poblacion": 191000
+    },
+    {
+      "id": "it-fog",
+      "region": "it-apu",
+      "nombre": "Foggia",
+      "lat": 41.462,
+      "lng": 15.549,
+      "poblacion": 150000
+    },
+    {
+      "id": "it-lec",
+      "region": "it-apu",
+      "nombre": "Lecce",
+      "lat": 40.353,
+      "lng": 18.174,
+      "poblacion": 95000
+    },
+    {
+      "id": "it-cag",
+      "region": "it-sar",
+      "nombre": "Cagliari",
+      "lat": 39.223,
+      "lng": 9.122,
+      "poblacion": 154000
+    },
+    {
+      "id": "it-sas",
+      "region": "it-sar",
+      "nombre": "Sassari",
+      "lat": 40.727,
+      "lng": 8.56,
+      "poblacion": 127000
+    },
+    {
+      "id": "it-bol",
+      "region": "it-ero",
+      "nombre": "Bolonia",
+      "lat": 44.494,
+      "lng": 11.343,
+      "poblacion": 391000
+    },
+    {
+      "id": "it-mod",
+      "region": "it-ero",
+      "nombre": "Módena",
+      "lat": 44.647,
+      "lng": 10.925,
+      "poblacion": 185000
+    },
+    {
+      "id": "it-par",
+      "region": "it-ero",
+      "nombre": "Parma",
+      "lat": 44.801,
+      "lng": 10.328,
+      "poblacion": 196000
+    },
+    {
+      "id": "it-fer",
+      "region": "it-ero",
+      "nombre": "Ferrara",
+      "lat": 44.836,
+      "lng": 11.62,
+      "poblacion": 134000
+    },
+    {
+      "id": "it-rim",
+      "region": "it-ero",
+      "nombre": "Rímini",
+      "lat": 44.059,
+      "lng": 12.566,
+      "poblacion": 148000
+    },
+    {
+      "id": "it-rav",
+      "region": "it-ero",
+      "nombre": "Rávena",
+      "lat": 44.416,
+      "lng": 12.2,
+      "poblacion": 159000
+    },
+    {
+      "id": "it-tur",
+      "region": "it-pie",
+      "nombre": "Turín",
+      "lat": 45.07,
+      "lng": 7.687,
+      "poblacion": 870000
+    },
+    {
+      "id": "it-nov",
+      "region": "it-pie",
+      "nombre": "Novara",
+      "lat": 45.448,
+      "lng": 8.62,
+      "poblacion": 104000
+    },
+    {
+      "id": "it-ale",
+      "region": "it-pie",
+      "nombre": "Alessandria",
+      "lat": 44.913,
+      "lng": 8.616,
+      "poblacion": 93000
+    },
+    {
+      "id": "it-gen",
+      "region": "it-lig",
+      "nombre": "Génova",
+      "lat": 44.407,
+      "lng": 8.934,
+      "poblacion": 575000
+    },
+    {
+      "id": "it-spe",
+      "region": "it-lig",
+      "nombre": "La Spezia",
+      "lat": 44.103,
+      "lng": 9.824,
+      "poblacion": 94000
+    },
+    {
+      "id": "it-per",
+      "region": "it-umb",
+      "nombre": "Perugia",
+      "lat": 43.109,
+      "lng": 12.39,
+      "poblacion": 166000
+    },
+    {
+      "id": "it-ter",
+      "region": "it-umb",
+      "nombre": "Terni",
+      "lat": 42.563,
+      "lng": 12.641,
+      "poblacion": 113000
+    },
+    {
+      "id": "it-ass",
+      "region": "it-umb",
+      "nombre": "Asís",
+      "lat": 43.069,
+      "lng": 12.618,
+      "poblacion": 28000
+    },
+    {
+      "id": "it-anc",
+      "region": "it-mar",
+      "nombre": "Ancona",
+      "lat": 43.617,
+      "lng": 13.519,
+      "poblacion": 101000
+    },
+    {
+      "id": "it-pes",
+      "region": "it-mar",
+      "nombre": "Pesaro",
+      "lat": 43.911,
+      "lng": 12.913,
+      "poblacion": 95000
+    },
+    {
+      "id": "it-laq",
+      "region": "it-abr",
+      "nombre": "L'Aquila",
+      "lat": 42.351,
+      "lng": 13.4,
+      "poblacion": 69000
+    },
+    {
+      "id": "it-pesCh",
+      "region": "it-abr",
+      "nombre": "Pescara",
+      "lat": 42.464,
+      "lng": 14.214,
+      "poblacion": 120000
+    },
+    {
+      "id": "it-reg",
+      "region": "it-cal",
+      "nombre": "Reggio de Calabria",
+      "lat": 38.111,
+      "lng": 15.661,
+      "poblacion": 183000
+    },
+    {
+      "id": "it-cat2",
+      "region": "it-cal",
+      "nombre": "Catanzaro",
+      "lat": 38.909,
+      "lng": 16.588,
+      "poblacion": 89000
+    },
+    {
+      "id": "it-pot",
+      "region": "it-bas",
+      "nombre": "Potenza",
+      "lat": 40.642,
+      "lng": 15.799,
+      "poblacion": 67000
+    },
+    {
+      "id": "it-mat",
+      "region": "it-bas",
+      "nombre": "Matera",
+      "lat": 40.666,
+      "lng": 16.604,
+      "poblacion": 60000
+    },
+    {
+      "id": "pt-evo",
+      "region": "pt-ale",
+      "nombre": "Évora",
+      "lat": 38.572,
+      "lng": -7.909,
+      "poblacion": 57000
+    },
+    {
+      "id": "pt-bej",
+      "region": "pt-ale",
+      "nombre": "Beja",
+      "lat": 38.015,
+      "lng": -7.864,
+      "poblacion": 35000
+    },
+    {
+      "id": "pt-por2",
+      "region": "pt-ale",
+      "nombre": "Portalegre",
+      "lat": 39.296,
+      "lng": -7.429,
+      "poblacion": 25000
+    },
+    {
+      "id": "pt-fun",
+      "region": "pt-mad",
+      "nombre": "Funchal",
+      "lat": 32.648,
+      "lng": -16.909,
+      "poblacion": 111000
+    },
+    {
+      "id": "pt-cam",
+      "region": "pt-mad",
+      "nombre": "Câmara de Lobos",
+      "lat": 32.65,
+      "lng": -16.977,
+      "poblacion": 35000
+    },
+    {
+      "id": "pt-pde",
+      "region": "pt-azo",
+      "nombre": "Ponta Delgada",
+      "lat": 37.74,
+      "lng": -25.667,
+      "poblacion": 68000
+    },
+    {
+      "id": "pt-ang",
+      "region": "pt-azo",
+      "nombre": "Angra do Heroísmo",
+      "lat": 38.655,
+      "lng": -27.221,
+      "poblacion": 35000
     }
   ]
 }

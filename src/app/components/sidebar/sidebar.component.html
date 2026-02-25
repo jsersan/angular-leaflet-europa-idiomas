@@ -1,82 +1,85 @@
 <aside class="sidebar">
-    <div class="sidebar-inner">
-  
-      <!-- País -->
-      <div class="filter-block">
-        <label for="selPais">País</label>
-        <select id="selPais" [(ngModel)]="paisId" (change)="onPaisChange()">
-          <option value="">Seleccione País</option>
-          <option *ngFor="let p of paisesOrdenados" [value]="p.id">{{ p.nombre }}</option>
-        </select>
-      </div>
-  
-      <!-- Región -->
-      <div class="filter-block">
-        <label for="selRegion">Región</label>
-        <select id="selRegion" [(ngModel)]="regionId"
-                (change)="onRegionChange()"
-                [disabled]="!paisId">
-          <option value="">Seleccione Región</option>
-          <option *ngFor="let r of regionesFiltradas" [value]="r.id">{{ r.nombre }}</option>
-        </select>
-      </div>
-  
-      <!-- Ciudad -->
-      <div class="filter-block">
-        <label for="selCiudad">Ciudad</label>
-        <select id="selCiudad" [(ngModel)]="ciudadId"
-                (change)="onCiudadChange()"
-                [disabled]="!regionId">
-          <option value="">Seleccione Ciudad</option>
-          <option *ngFor="let c of ciudadesFiltradas" [value]="c.id">{{ c.nombre }}</option>
-        </select>
-      </div>
-  
-      <div class="divider"></div>
-  
-      <!-- Info card -->
-      <div class="info-card">
-        <div class="info-row">
-          <span class="info-label">País</span>
-          <span class="info-val" [class.none]="!paisId">
-            {{ paisId ? (paises | getPaisNombre: paisId) : '—' }}
-          </span>
-        </div>
-        <div class="info-row">
-          <span class="info-label">Región</span>
-          <span class="info-val" [class.none]="!regionId">
-            {{ regionId ? (regiones | getRegionNombre: regionId) : '—' }}
-          </span>
-        </div>
-        <div class="info-row">
-          <span class="info-label">Ciudad</span>
-          <span class="info-val" [class.none]="!ciudadId">
-            {{ ciudadId ? (ciudades | getCiudadNombre: ciudadId) : '—' }}
-          </span>
-        </div>
-      </div>
-  
-      <!-- Leyenda -->
-      <div class="legend">
-        <div class="legend-title">Leyenda</div>
-        <div class="legend-items">
-          <div class="legend-item">
-            <div class="legend-dot" style="background:#1e9bd7"></div>Ciudades del país
-          </div>
-          <div class="legend-item">
-            <div class="legend-dot" style="background:#2ecc71"></div>Ciudades de la región
-          </div>
-          <div class="legend-item">
-            <div class="legend-dot" style="background:#e74c3c"></div>Ciudad seleccionada
-          </div>
-        </div>
-      </div>
-  
-      <div class="divider"></div>
-  
-      <button class="btn-reset" [disabled]="!paisId" (click)="resetAll()">
-        ↺ Restablecer
-      </button>
-  
+  <div class="sidebar-inner">
+
+    <!-- País / Country / Herrialdea -->
+    <div class="filter-block">
+      <label for="selPais">{{ i18n.t('country') }}</label>
+      <select id="selPais" [(ngModel)]="paisId" (change)="onPaisChange()">
+        <option value="">{{ i18n.t('selectCountry') }}</option>
+        <option *ngFor="let p of paisesOrdenados" [value]="p.id">{{ p.nombre }}</option>
+      </select>
     </div>
-  </aside>
+
+    <!-- Región / Region / Eskualdea -->
+    <div class="filter-block">
+      <label for="selRegion">{{ i18n.t('region') }}</label>
+      <select id="selRegion" [(ngModel)]="regionId"
+              (change)="onRegionChange()"
+              [disabled]="!paisId">
+        <option value="">{{ i18n.t('selectRegion') }}</option>
+        <option *ngFor="let r of regionesFiltradas" [value]="r.id">{{ r.nombre }}</option>
+      </select>
+    </div>
+
+    <!-- Ciudad / City / Hiria -->
+    <div class="filter-block">
+      <label for="selCiudad">{{ i18n.t('city') }}</label>
+      <select id="selCiudad" [(ngModel)]="ciudadId"
+              (change)="onCiudadChange()"
+              [disabled]="!regionId">
+        <option value="">{{ i18n.t('selectCity') }}</option>
+        <option *ngFor="let c of ciudadesFiltradas" [value]="c.id">{{ c.nombre }}</option>
+      </select>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Info card -->
+    <div class="info-card">
+      <div class="info-row">
+        <span class="info-label">{{ i18n.t('country') }}</span>
+        <span class="info-val" [class.none]="!paisId">
+          {{ paisId ? (paises | getPaisNombre: paisId) : '—' }}
+        </span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">{{ i18n.t('region') }}</span>
+        <span class="info-val" [class.none]="!regionId">
+          {{ regionId ? (regiones | getRegionNombre: regionId) : '—' }}
+        </span>
+      </div>
+      <div class="info-row">
+        <span class="info-label">{{ i18n.t('city') }}</span>
+        <span class="info-val" [class.none]="!ciudadId">
+          {{ ciudadId ? (ciudades | getCiudadNombre: ciudadId) : '—' }}
+        </span>
+      </div>
+    </div>
+
+    <!-- Leyenda / Legend / Legenda -->
+    <div class="legend">
+      <div class="legend-title">{{ i18n.t('legend') }}</div>
+      <div class="legend-items">
+        <div class="legend-item">
+          <div class="legend-dot" style="background:#1e9bd7"></div>
+          {{ i18n.t('citiesOfCountry') }}
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:#2ecc71"></div>
+          {{ i18n.t('citiesOfRegion') }}
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:#e74c3c"></div>
+          {{ i18n.t('selectedCity') }}
+        </div>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <button class="btn-reset" [disabled]="!paisId" (click)="resetAll()">
+      {{ i18n.t('reset') }}
+    </button>
+
+  </div>
+</aside>

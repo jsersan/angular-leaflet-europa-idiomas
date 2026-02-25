@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'leaflet/dist/leaflet.css';
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%; width: 100%;
+  font-family: 'Source Sans 3', sans-serif;
+  overflow: hidden;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 10px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,.14) !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+.leaflet-popup-content { margin: 0 !important; }
+
+.popup-inner {
+  padding: 14px 16px;
+  min-width: 180px;
+
+  h3 { font-size: .95rem; font-weight: 700; margin-bottom: 4px; }
+  p  { font-size: .82rem; color: #718096; margin: 0; }
+
+  .pop-tag {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: .72rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: .07em;
+    padding: 2px 8px; border-radius: 10px;
+    color: #fff;
+  }
+}
+
+.popup-inner .pop-poblacion {
+    font-size: .80rem;
+    color: #2d3748;
+    margin-top: 4px;
+    font-weight: 500;
+  }

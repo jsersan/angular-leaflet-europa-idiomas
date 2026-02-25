@@ -1,0 +1,33 @@
+.app-header {
+    position: fixed; top: 0; left: 0; right: 0;
+    height: 48px;
+    background: #1e9bd7;
+    display: flex; align-items: center;
+    padding: 0 16px; gap: 18px;
+    z-index: 1100;
+    box-shadow: 0 2px 8px rgba(0,0,0,.20);
+  
+    .logo {
+      font-size: 1.05rem; font-weight: 700;
+      color: #fff; text-decoration: none;
+      white-space: nowrap;
+    }
+  
+    .nav-link {
+      font-size: .9rem; color: rgba(255,255,255,.88);
+      text-decoration: none; cursor: pointer;
+      padding: 4px 10px; border-radius: 4px;
+      transition: background .18s;
+      &:hover { background: rgba(255,255,255,.18); }
+    }
+  
+    .spacer { flex: 1; }
+  
+    .pin-badge {
+      background: rgba(255,255,255,.22);
+      border: 1px solid rgba(255,255,255,.35);
+      color: #fff; font-size: .78rem; font-weight: 600;
+      padding: 3px 10px; border-radius: 20px;
+      white-space: nowrap;
+    }
+  }
